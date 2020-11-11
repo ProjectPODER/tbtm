@@ -26,7 +26,7 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #1491a5 !default;
 
-$primary:       $blue !default;
+$primary:       #A11E21 !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -39,7 +39,7 @@ $dark:          $gray-800 !default;
 //Home background image
 //You need to change only the name and the type of your image
 //For example:./img/your-image.png 
-$bgHome : "./img/bg-masthead.jpg";
+$bgHome : "./img/tren_maya.png";
 
 // Graph tooltip title color 
 $graphTooltipTitleColor: $info;
@@ -59,7 +59,7 @@ $link-hover-decoration:     underline !default;
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
-$font-family-sans-serif:      Lato, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$font-family-sans-serif:      'Open Sans', sans-serif !default;
 $font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
 // stylelint-enable value-keyword-case

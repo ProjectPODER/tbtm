@@ -1,4 +1,3 @@
-
 section.page,
 section.posts-page,
 section.post-page,
@@ -24,4 +23,14 @@ blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
 a {
     transition: all .35s;
     word-wrap: break-word;
+}
+
+@font-face {
+    font-family: goboldbold;
+    src: url("../assets/fonts/Gobold-Bold.otf");
+}
+
+@font-face {
+    font-family: goboldregular;
+    src: url("../assets/fonts/Gobold-Regular.otf");
 }
