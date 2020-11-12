@@ -26,8 +26,8 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #1491a5 !default;
 
-$primary:       #A11E21 !default;
-$secondary:     $gray-600 !default;
+$primary:       #980415 !default;
+$secondary:     #ec5e32!default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -42,13 +42,13 @@ $dark:          $gray-800 !default;
 $bgHome : "./img/tren_maya.png";
 
 // Graph tooltip title color 
-$graphTooltipTitleColor: $info;
+$graphTooltipTitleColor: #537E39;
 
 
 // Links
 //
 // Style anchor elements.
-$link-color:                $primary !default;
+$link-color:                $secondary !default;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 15%) !default;
 $link-hover-decoration:     underline !default;
