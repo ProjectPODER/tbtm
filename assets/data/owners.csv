@@ -1,37 +1,91 @@
-NOMBRE,TIPO_ENTIDAD,RELACIONADO CON,TIPO_RELACION,PUESTO
-"MINSA, S.A. de C.V.",empresa,,,
-Grupo Minsa S.A.B. de C.V.,empresa,"MINSA, S.A. de C.V.",shareholder,
-"LICONSA, S.A. de C.V.",empresa,,,
-Margarita Del Rocio Ruiz Ramirez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Andrés González Nieto,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Erics Ivan Ruíz Espinoza,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Othoniel Melchor Peña Montor,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Ignacio Cobos Huesca,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Claudia Galguera Aparicio,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Marco Antonio Sánchez Colín,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Carlos Zarate Chavez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Gerónimo Color Gasca,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Luis Gendron Pensado,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Efrain Rivero Euan,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Juan José Díaz Rodríguez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Geronimo Eduardo Corona Alcala,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Elizabeth Blackmore Smer,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Gerardo Piña Coronel,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Mónica Alejandra Martínez Duarte,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Jose Maria Jimenez Contreras,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Pedro Vazquez Vazquez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Brendali Guadalupe Figueroa Flores,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Juan Jose Galguera García,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Carlos Aguilera Andrade,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-David Juvenal Saucedo Gonzalez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Gabriela Ponce Medina,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Aleyda Lidoyne Jonguitud Austria,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Rosa Maria Vargas Cuellar,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Roberto Bravo Flores,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Sergio Martinez Burboa,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Karla Teresa Blancas Pizaña,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Marcos Pérez Jiménez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Rubén Vega López,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Maria Del Carmen Narvaez Flores,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Julián Rosales Ramírez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Hugo Paz Sosa,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
+NOMBRE	TIPO_ENTIDAD	RELACIONADO CON	TIPO_RELACION	PUESTO
+Mota-Engil S.A.P.I de C.V. 	empresa			
+Mota-Engil, SGPS, S.A. 	empresa	Mota-Engil S.A.P.I de C.V. 	parent	
+Sociedade de Controlo SGPS, SA	empresa	Mota-Engil, SGPS, S.A. 	shareholder	
+Mutima Capital Management LLC	empresa	Mota-Engil, SGPS, S.A. 	shareholder	
+Antonio Mota 	persona	Mota-Engil, SGPS, S.A. 	boardmember	Presidente 
+Gonzalo Nuno Gomes	persona 	Mota-Engil, SGPS, S.A. 	boardmember	Vicepresidente
+China Communications Construction Company Ltd.	empresa			
+China Communications Construction Company Ltd.	empresa	China Communications Construction Company Ltd.	parent	
+China Securities Finance Corp.	persona	China Communications Construction Company Ltd.	shareholder	
+BlackRock Inc.	empresa	China Communications Construction Company Ltd.	shareholder	
+Wang Tongzhou	persona	China Communications Construction Company Ltd.	boardmember	Presidente 
+Zhong Chen	persona	China Communications Construction Company Ltd.	boardmember	Vicepresidente
+Operadora Cicsa S.A. de C.V.	empresa			
+Grupo Carso S.A.B. De C.V. 	empresa	Operadora Cicsa S.A. de C.V.		
+Grupo Financiero Inbursa S.A.B de C.V. 	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
+BlackRock Inc.	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
+Carlos Slim Helú 	persona	Grupo Carso S.A.B. De C.V. 	boardmember	Presidente 
+Patrick Slim Domit 	persona	Grupo Carso S.A.B. De C.V. 	boardmember	Vicepresidente
+FCC Construccion S.A. 	empresa			
+FCC, S.A. 	empresa	FCC Construccion S.A. 	parent	
+Inversora Carso S.A de C.V. 	empresa	FCC, S.A. 	shareholder	
+Nueva Samede S.L.U. 	empresa	FCC, S.A. 	shareholder	
+Pablo Colio Abril	persona	FCC, S.A. 	boardmember	Presidente 
+Juan José Drago Maslá	persona	FCC, S.A. 	boardmember	Vicepresidente
+Construcciones Urales S.A de C.V. 	empresa			
+Grupo Azvi, S.L. 	empresa	Construcciones Urales S.A de C.V. 	parent	
+	empresa	Grupo Azvi, S.L. 	shareholder	
+	empresa	Grupo Azvi, S.L. 	shareholder	
+Manuel Contreras Ramos	persona	Grupo Azvi, S.L. 	boardmember	Presidente 
+Manuel Contreras Caro	persona	Grupo Azvi, S.L. 	boardmember	Vicepresidente
+GAMI Ingeniería e Instalaciones S.A de C.V. 	empresa 			
+Grupo Indi S.A de C.V. 	empresa	GAMI Ingeniería e Instalaciones S.A de C.V. 	parent	
+	empresa	Grupo Indi S.A de C.V. 	shareholder	
+	empresa	Grupo Indi S.A de C.V. 	shareholder	
+Manuel G. Muñozcano	persona	Grupo Indi S.A de C.V. 	boardmember	Presidente 
+	persona	Grupo Indi S.A de C.V. 	boardmember	Vicepresidente
+Empresas ICA S.A.B. DE C.V. 	empresa			
+Empresas ICA S.A.B. DE C.V. 	empresa	Empresas ICA S.A.B. DE C.V. 	parent	
+David Martinez Guzmán	persona	Empresas ICA S.A.B. DE C.V. 	shareholder	
+	empresa	Empresas ICA S.A.B. DE C.V. 	shareholder	
+Bernardo Quintana Isaac	persona	Empresas ICA S.A.B. DE C.V. 	boardmember	Presidente 
+Guadalupe Philips Margain	persona	Empresas ICA S.A.B. DE C.V. 	boardmember	Vicepresidente
+Woodhouse Lorente Ludlow SC	empresa 			
+CMS Legal Services EEIG	empresa	Woodhouse Lorente Ludlow SC	parent	
+	empresa	CMS Legal Services EEIG	shareholder	
+	empresa	CMS Legal Services EEIG	shareholder	
+Pierre-Sébastien Thill	persona	CMS Legal Services EEIG	boardmember	Presidente 
+Matthias Lichtblau	persona	CMS Legal Services EEIG	boardmember	Vicepresidente
+Steer Davies & Gleave México S.A de C.V. 	empresa			
+Steer Davies & Gleave Ltd. 	empresa	Steer Davies & Gleave México S.A de C.V. 	parent	
+Suffolk Life 	empresa	Steer Davies & Gleave México S.A de C.V. 	shareholder	
+Castlewood Trust Corporation Ltd. 	empresa	Steer Davies & Gleave México S.A de C.V. 	shareholder	
+Hugh jones 	persona	Steer Davies & Gleave México S.A de C.V. 	boardmember	Presidente 
+Sharon Daly 	persona	Steer Davies & Gleave México S.A de C.V. 	boardmember	Vicepresidente
+Mextypsa S.A de C.V. 	empresa			
+Técnica y Proyectos S.A. 	empresa	Mextypsa S.A de C.V. 	parent	
+	empresa	Técnica y Proyectos S.A. 	shareholder	
+	empresa	Técnica y Proyectos S.A. 	shareholder	
+Pablo Bueno Sainz	persona	Técnica y Proyectos S.A. 	boardmember	Presidente
+Pablo Bueno Tomás 	persona	Técnica y Proyectos S.A. 	boardmember	Presidente 
+PricewaterhouseCoopers S.C. 	empresa			
+PricewaterhpuseCooper International Limited	empresa	PricewaterhouseCoopers S.C. 	parent	
+	empresa	PricewaterhpuseCooper International Limited	shareholder	
+	empresa	PricewaterhpuseCooper International Limited	shareholder	
+Robert E Moritz 	persona	PricewaterhpuseCooper International Limited	boardmember	Presidente
+Wesley Bricker 	persona	PricewaterhpuseCooper International Limited	boardmember	Vicepresidente
+Key Capital S.A.P.I. DE C.V. 	empresa			
+Key Capital S.A.P.I. DE C.V. 	empresa	Key Capital S.A.P.I. DE C.V. 	parent	
+	empresa	Key Capital S.A.P.I. DE C.V. 	shareholder	
+	empresa	Key Capital S.A.P.I. DE C.V. 	shareholder	
+Enrique Prieto 	persona	Key Capital S.A.P.I. DE C.V. 	boardmember	Presidente
+	persona	Key Capital S.A.P.I. DE C.V. 	boardmember	Vicepresidente
+Senermex Ingeniería y Sistemas S.A. de C.V. 	empresa			
+Sener Grupo de  Ingeniería y Sistemas S.A.	empresa	Senermex Ingeniería y Sistemas S.A. de C.V. 	parent	
+Jorge Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	shareholder	
+Andrés Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	shareholder	
+Jorge Sedagorta 	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	boardmember	Presidente
+Andrés Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	boardmember	Vicepresidente
+Daniferrotools S.A  de C.V. 	empresa			
+Daniferrotools S.A  de C.V. 	empresa	Daniferrotools S.A  de C.V. 	parent	
+Diana Rivera Tzek 	empresa	Daniferrotools S.A  de C.V. 	shareholder	
+Francisco Vazquez Tzek	empresa	Daniferrotools S.A  de C.V. 	shareholder	
+Itzel Mendez Velazquez 	persona	Daniferrotools S.A  de C.V. 	boardmember	Presidente
+Diana Rivera Tzek 	persona	Daniferrotools S.A  de C.V. 	boardmember	Vicepresidente
+Geotest 	empresa			
+Geotecnica y Supervisión Técnica S.A de C.V.  	empresa	Geotest		
+Luis Enrique Atzin	empresa	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
+Maria Elena Guevara Escobar	empresa	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
+Luis Enrique Atzin	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	boardmember	Presidente
+Maria Elena Guevara Escobar	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	boardmember	Vicepresidente
