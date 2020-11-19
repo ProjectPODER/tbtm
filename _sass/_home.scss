@@ -13,9 +13,9 @@
     background-color: #980415;
 
     h1 {
-        font-size: 68px;
+        font-size: 66px;
         line-height: 75px;
-        margin-bottom: 2rem;
+        margin-bottom: 0rem;
         font-weight: bolder;
         font-family: goboldregular;
         letter-spacing: 1px;
@@ -27,7 +27,7 @@
         color: $white;
     }
     p {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
     }
     a {
         @extend .btn;
