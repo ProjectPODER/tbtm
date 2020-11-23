@@ -24,7 +24,7 @@ layout: default
                   {{ post.date | date: date_format }} -->
                 </span>
                 {%- if post.author -%}
-                <p><b>Published by {{ post.author }}</b></p>
+                <p><b>Publicado por {{ post.author }}</b></p>
                 {%- endif -%}
               </div>
             </div>
@@ -36,7 +36,7 @@ layout: default
       </div>
       {%- endfor -%}
       <div class="col-lg-12">
-        <p class="rss-subscribe mt-4">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+        <p class="rss-subscribe mt-4">Suscríbete <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
       </div>
       {%- endif -%}
     </div>
