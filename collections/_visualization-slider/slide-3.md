@@ -9,4 +9,4 @@ Desde el 21 de abril de 2020 se formalizó la asignación del proyecto Tren Maya
 
 Otros contratos versan sobre la relación con comunidades. El 1 de septiembre de 2020 FONATUR contrató a la empresa Trust Management Sourcing, S.A.P.I. de C.V. por 1,857,000 pesos para llevar a cabo la mediación para resolver controversias presentes o futuras relacionadas en cuanto a la aportación de terrenos propiedad de particulares y propiedad social.
 
-Lee el reportaje ["La amenaza Maya: el tren y la inmobiliaria".](2020-12-02-la-amenaza-maya.html)
+Lee el reportaje ["La amenaza Maya: el tren y la inmobiliaria".](/2020/12/02/la-amenaza-maya.html)

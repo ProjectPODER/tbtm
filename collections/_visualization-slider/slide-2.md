@@ -9,4 +9,4 @@ image: visualization-example.png
 
 Una de las grandes fallas del proceso de construcción del Tren Maya es la falta de consultas y acercamiento con las comunidades, así como el respeto a su Derechos Humanos, que a su vez son usados como moneda de cambio para que las comunidades acepten el proyecto (informe de DDHH enlazado).
 
-Lee el [informe “Derechos Humanos: ¿garantía o transacción?”](3-Informe-DDHH.html)
+Lee el [informe “Derechos Humanos: ¿garantía o transacción?”](/informeDDHH/)
