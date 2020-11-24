@@ -23,10 +23,9 @@ layout: default
                   <h2 class="card-title">{{ post.title | escape }}</h2>
                 </a>
                 <div class="ml-auto">
-                  <span class="text-muted">
-                    {%- assign date_format = "%b %-d, %Y" -%}
-                    {{ post.date | date: date_format }}
-                  </span>
+                  <p class="text-muted m-0">
+                    {% include translated_date.html date=post.date format=site.date-format lang=site.date-language %}
+                  </p>
                   {%- if post.author -%}
                   <p><b>Publicado por {{ post.author }}</b></p>
                   {%- endif -%}
