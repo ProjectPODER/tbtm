@@ -4,7 +4,7 @@ title: DDHH en transacción
 permalink: /informeDDHH/
 ---
 
-#Derechos Humanos: ¿garantía o transacción?
+# Derechos Humanos: ¿garantía o transacción?
 
 En este informe de investigación analizamos hasta qué punto la construcción del Tren Maya ha sido respetuosa de los derechos humanos, tal como se ha afirmado por sus promotores, particularmente en lo que se refiere al derecho a la participación y la libre determinación de los pueblos y las comunidades indígenas potencialmente afectadas por el megaproyecto.
 
