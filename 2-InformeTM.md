@@ -4,7 +4,7 @@ title: El tren de la élite
 permalink: /informeTM/
 ---
 
-#El tren de la élite
+#Empresas beneficiadas y proyectos energéticos en el sureste
 
 El Tren Maya ha levantado fuertes cuestionamientos por las afectaciones que tendría en el medio ambiente, en el patrimonio histórico de la región y en los derechos de los pueblos y comunidades indígenas. Este informe de investigación analiza el papel que juega este proyecto en el modelo de desarrollo que se quiere imponer en la región sureste del país y cuáles son los actores realmente beneficiados con su construcción.
 
