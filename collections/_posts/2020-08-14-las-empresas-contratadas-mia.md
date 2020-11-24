@@ -2,7 +2,7 @@
 layout: post
 title: Las empresas contratadas por FONATUR para la MIA del Tren Maya
 author: "Claudia Ocaranza"
-image: fonaturmia1.png
+image: fonaturmiatren1.png
 ---
 El Fondo Nacional de Fomento al Turismo (FONATUR), es el encargado de llevar a cabo la planificación, construcción y puesta en marcha del Tren Maya, una de las obras que pretenden ser insignias del gobierno de Andrés Manuel López Obrador. El proyecto no ha estado exento de polémicas, en especial por el impacto ambiental y social que podría tener el tren que atraviesa la Península Yucateca.
 
