@@ -2,7 +2,7 @@
 layout: post
 title: El Tren Maya conecta la Reforma Energética
 author: "Ricardo Balderas"
-image: 
+image: trenmayareformaenergetica.jpg
 ---
 
 En cada uno de los estados por los que atravesará el Tren Maya, existe un proyecto de energía o relacionado a extracción de hidrocarburos, sobre el cual el nuevo gabinete sabe, pero ha sido muy discreto. Todos los proyectos son herencia directa de la administración del priista Enrique Peña Nieto (EPN) y presentan importantes desafíos ambientales y Salina Cruz-Tapachula que afectan a Yucatán, Quintana Roo, Chiapas y Oaxaca; y la construcción de una segunda refinería en Campeche, además del posible traslado de las oficinas centrales de Pemex a Ciudad del Carmen, como Rocío Nahle lo prometió en campaña. Este último sería el único proyecto 100% de Morena.
