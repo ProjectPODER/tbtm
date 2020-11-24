@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El tren de la élite
+title: El tren de las élites
 permalink: /informeTM/
 ---
 
