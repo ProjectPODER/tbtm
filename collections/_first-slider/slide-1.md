@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: TM_prueba2.png
+image: tren_maya_v4.png
 ---
 
 # Constructoras por tramos
