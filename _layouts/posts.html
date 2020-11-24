@@ -19,9 +19,11 @@ layout: default
               </a>
               <div class="ml-auto">
                 <span class="text-muted">
-                  {% include translated_date.html date=post.date format=site.date-format lang=site.date-language  %}
+                  <time datetime="{{ page.date | date_to_xmlschema }}">
+                    {% include translated_date.html date=post.date format=site.date-format lang=site.date-language  %}
                   <!-- {%- assign date_format = "%b %-d, %Y" -%}
                   {{ post.date | date: date_format }} -->
+                  </time>
                 </span>
                 {%- if post.author -%}
                 <p><b>Publicado por {{ post.author }}</b></p>
