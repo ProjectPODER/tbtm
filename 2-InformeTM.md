@@ -4,6 +4,8 @@ title: El negocio del Tren Maya
 permalink: /informeTM/
 ---
 
+#El negocio del Tren Maya
+
 El Tren Maya ha levantado fuertes cuestionamientos por las afectaciones que tendría en el medio ambiente, en el patrimonio histórico de la región y en los derechos de los pueblos y comunidades indígenas. Este informe de investigación analiza el papel que juega este proyecto en el modelo de desarrollo que se quiere imponer en la región sureste del país y cuáles son los actores realmente beneficiados con su construcción.
 
 La manera en que ha sido diseñado el proyecto del Tren Maya indica que la infraestructura de transporte público se pondrá al servicio de la inversión privada por sobre la protección y garantía de los derechos humanos de los pueblos indígenas y el medio ambiente. En la investigación también se destaca la importancia que tendrá el Tren Maya como infraestructura básica para la industria energética en el sureste, dado que un tercio del transporte de carga del tren se destinará al transporte de combustibles fósiles.
