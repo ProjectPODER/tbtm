@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿Y los Derechos Humanos?
+title: Derechos Humanos en transacción
 permalink: /informeDDHH/
 ---
 
