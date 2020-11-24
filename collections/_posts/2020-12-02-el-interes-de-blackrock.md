@@ -1,7 +1,7 @@
 ---
 layout: post
-title: El interés de BlackRock
-author: "John Doe"
+title: El interés energético de BlackRock
+author: PODER 
 ---
 
 La región sureste de México concentra una importante cantidad de proyectos de generación de energía que podrían beneficiarse de la infraestructura del Tren Maya, lo cual agudizaría los numerosos conflictos territoriales relacionados con la disputa por la tierra, la protección ambiental y el destino de los recursos públicos. 
