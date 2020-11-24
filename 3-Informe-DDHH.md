@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Derechos Humanos en transacción
+title: DDHH en transacción
 permalink: /informeDDHH/
 ---
 
