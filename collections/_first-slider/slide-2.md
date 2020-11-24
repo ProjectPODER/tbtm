@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: graphic-example2.png
+image: TM_prueba2.png
 ---
 
 # El Tren Maya y las extractivas
