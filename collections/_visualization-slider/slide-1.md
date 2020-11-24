@@ -3,6 +3,10 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# THIS IS THE FIRST SLIDE
+# 150 contratos para el Tren Maya
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Entre 2019 y 2020 se han invertido 66,608,136,499 pesos en 150 contratos para la planeación, preparación, construcción, manejo de comunidades, difusión o divulgación del Tren Maya. 
+
+Aunque existen 784 contratos repartidos entre 2015 y 2020 y por un valor total de 66,939,232,835 en los que se menciona la palabra Tren Maya en alguno de los campos de Compranet, según la plataforma QuiénEsQuién.Wiki. 
+
+Lee el reportaje “Cuatro hechos sobre el Tren Maya que Fonatur no reconoce”
