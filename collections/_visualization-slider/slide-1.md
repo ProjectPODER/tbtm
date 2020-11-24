@@ -9,4 +9,4 @@ Entre 2019 y 2020 se han invertido 66,608,136,499 pesos en 150 contratos para la
 
 Aunque existen 784 contratos repartidos entre 2015 y 2020 y por un valor total de 66,939,232,835 en los que se menciona la palabra Tren Maya en alguno de los campos de Compranet, según la plataforma QuiénEsQuién.Wiki. 
 
-Lee el reportaje “Cuatro hechos sobre el Tren Maya que Fonatur no reconoce”
+Lee el reportaje [“Cuatro hechos sobre el Tren Maya que Fonatur no reconoce”](2020-12-02-cuatro-hechos-sobre-el-tren-maya.html)
