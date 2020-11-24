@@ -10,4 +10,4 @@ Entre el año 2015 y 2019, la Secretaría de Energía (SENER) y la Secretaría d
 Conocer los proyectos energéticos, las empresas que los desarrollarán y los inversionistas de los mismos y saber que una de las principales fuentes de ingreso del Tren Maya será el transporte de combustibles, evidencía que el Tren Maya funcionará como plataforma de infraestructura para el sector energético, como se puede ver en la infografía. Si esto se consolida, la construcción del tren favorecerá a los proyectos extractivos de energía en la región que han propiciado conflictos ambientales y sociales.
 
 {:.image-post}
-![El interés energético de BlackRock | Adrián Sánchez]({{ site.baseurl }}/assets/img/infografiaBR.png)
+![El interés energético de BlackRock. Crédito: Adrián Sánchez]({{ site.baseurl }}/assets/img/infografiaBR.png)
