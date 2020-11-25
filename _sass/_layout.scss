@@ -38,3 +38,11 @@ a {
 .numero-maya {
     width: 70px !important;
 }
+
+.bg-general {
+    background-image: url("../assets/img/back_TM.png");
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
