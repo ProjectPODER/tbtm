@@ -5,7 +5,6 @@
     min-height: 35rem;
     padding: 10rem 0;
     background: url('#{$bgHome}');
-    background: url('#{$bgHome}');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -61,15 +60,43 @@
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
     .home-content {
-
+        background: url('./img/movil1.png');
+        background-position: top;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: #980415;
+        padding: 5rem 0 20rem;
         h1 {
-            font-size: 60px;
-            line-height: 65px;
+            font-size: 50px;
+            line-height: 60px;
         }
         p {
-            font-size: 1.4rem;
+            font-size: 1.2rem;
+        }
+        .align-items-end {
+            align-items: start !important;
+        }
+    }
+}
+
+
+@media (max-width: 767px) {
+    .home-content {
+        background: url('./img/movil2.png');
+        background-position: top;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: #980415;
+        h1 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        p {
+            font-size: 1rem;
         }
     }
 }
