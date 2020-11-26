@@ -41,4 +41,4 @@ Coordinación de Periodismo y Datos: Claudia Ocaranza.
 
 Coordinación de Desarrollo: Martin Szyszlican.
 
-Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregon.
+Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregón.
