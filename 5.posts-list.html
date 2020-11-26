@@ -1,0 +1,39 @@
+---
+layout: default
+title: La narrativa
+permalink: /posts-list/
+---
+
+<section class="posts-page">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 mb-4">
+            <h1 id="this-is-the-title-posts-page">La narrativa</h1>
+        </div>
+
+        <div class="col-lg-12">
+          <div class="card bg-light mb-3">
+            <div class="card-body">
+              <div class="col-lg-4">
+                <div class="posts-img" style="background-image: url('{{site.baseurl}}/assets/img/{{post.image}}');"></div>
+              </div>
+              <div class="col-lg-8">
+                <div class="header-card d-flex align-items-first">
+                  <a href="{{ post.url | relative_url }}" style="margin-right: 20px;">
+                    <h2 class="card-title">Título</h2>
+                  </a>
+                  <div class="ml-auto">
+                    <p class="text-muted m-0">
+                      fecha
+                    </p>
+                    <p><b>Publicado por </b></p>
+                  </div>
+                </div>
+                  <p>Resumen</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
