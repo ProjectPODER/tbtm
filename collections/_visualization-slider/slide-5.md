@@ -3,7 +3,7 @@ title: Slide 5
 image: visualization-example.png
 ---
 
-# Los ganadores
+# Carso, ICA y BlackRock, las ganadoras
 
 Carlos Slim, de Grupo Carso; Bernardo Quintana Isaac, de Empresas ICA; FCC, S.A. y hasta BlackRock son sólo algunos de los beneficiarios reales del Tren Maya. Es decir, los dueños, socios e inversionistas mayoritarios detrás de las empresas matrices dueñas de las firmas que participan en el proyecto estrella del presidente Andrés Manuel López Obrador.
 
