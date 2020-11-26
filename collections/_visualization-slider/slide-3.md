@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: tm3.png
 ---
 
 # Resolución de controversias y publicidad

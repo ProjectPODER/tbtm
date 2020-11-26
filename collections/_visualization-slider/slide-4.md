@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: tm4.png
 ---
 
 # Las empresas beneficiadas

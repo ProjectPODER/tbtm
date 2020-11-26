@@ -1392,6 +1392,7 @@ function setupFullPage() {
  // FIXME: que hacer con esto???
   $('#fullpage').fullpage({
     anchors: anchors,
+    lockAnchors: true,
     menu: '#slidesMenu',
     navigation: true,
     lazyLoading: true,

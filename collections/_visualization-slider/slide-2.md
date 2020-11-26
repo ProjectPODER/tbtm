@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: tm2.png
 ---
 
 # El proceso de contratación

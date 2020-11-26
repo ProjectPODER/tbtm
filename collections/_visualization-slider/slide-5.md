@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: visualization-example.png
+image: tm5.png
 ---
 
 # Carso, ICA y BlackRock, las ganadoras

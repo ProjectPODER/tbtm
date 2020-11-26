@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: tm1.png
 ---
 
 # 67,000 mdp para la construcción
