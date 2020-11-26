@@ -60,6 +60,8 @@ $(document).ready(function () {
                 }
             }
         });
+
+        updateParentUrl();
     }
 
     // when the page loads
