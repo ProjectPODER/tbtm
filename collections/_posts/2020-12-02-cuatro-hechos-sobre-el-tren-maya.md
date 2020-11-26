@@ -4,7 +4,7 @@ title: Cuatro hechos sobre el "Tren Maya" que FONATUR no reconoce
 author: "Ricardo Balderas"
 image: 
 ---
-Este texto está basado en el informe de PODER Latam: “¿Garantía o transacción? Análisis de los derechos a la participación y la libre determinación del Tren Maya”. Para leer el documento completo sobre el informe, dar click aquí.
+Este texto está basado en el informe de PODER: “¿Garantía o transacción? Análisis de los derechos a la participación y la libre determinación del Tren Maya”. Para leer el documento completo sobre el informe, dar click aquí.
 
 Construir un megaproyecto sobre zona selvática sin información clara sobre el impacto a la biodiversidad. Así se puede definir el Tren Maya, infraestructura insignia del presidente Andrés Manuel López Obrador, que complementa vías férreas existentes y nuevas para conectar los estados de Chiapas, Tabasco, Campeche, Yucatán y Quintana Roo. En total, se trata de 1,460 kilómetros y siete tramos definidos como puntos de convergencia.
 
