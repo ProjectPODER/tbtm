@@ -1,167 +1,65 @@
-NOMBRE	TIPO_ENTIDAD	RELACIONADO CON	TIPO_RELACION	PUESTO
-CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	Mota-Engil S.A.P.I de C.V. 	parent	
-Mota-Engil S.A.P.I de C.V. 	empresa	Mota-Engil, SGPS, S.A. 	parent	
-Mota-Engil, SGPS, S.A. 	empresa	Mota-Engil S.A.P.I de C.V. 	parent	
-Sociedade de Controlo SGPS, SA	empresa	Mota-Engil, SGPS, S.A. 	shareholder	
-Mutima Capital Management LLC	empresa	Mota-Engil, SGPS, S.A. 	shareholder	
-Antonio Mota 	persona	Mota-Engil, SGPS, S.A. 	boardmember	Presidente 
-Gonzalo Nuno Gomes	persona 	Mota-Engil, SGPS, S.A. 	boardmember	Vicepresidente
-CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	China Communications Construction Company Ltd.	parent	
-China Communications Construction Company Ltd.	empresa	China Communications Construction Company Ltd.	parent	
-China Communications Construction Company Ltd.	empresa	China Communications Construction Company Ltd.	parent	
-China Securities Finance Corp.	empresa	China Communications Construction Company Ltd.	shareholder	
-BlackRock Inc.	empresa	China Communications Construction Company Ltd.	shareholder	
-Wang Tongzhou	persona	China Communications Construction Company Ltd.	boardmember	Presidente 
-Zhong Chen	persona	China Communications Construction Company Ltd.	boardmember	Vicepresidente
-Gavil Ingeniería S.A de C.V. 	empresa			
-Gavil Ingeniería S.A de C.V. 	empresa	Gavil Ingeniería S.A de C.V. 	parent	
-	empresa	Gavil Ingeniería S.A de C.V. 	shareholder	
-	empresa	Gavil Ingeniería S.A de C.V. 	shareholder	
-	persona	Gavil Ingeniería S.A de C.V. 	boardmember	
-	persona	Gavil Ingeniería S.A de C.V. 	boardmember	
-CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	Eyasa S de R,L. DE C.V. 	parent	
-Eyasa S de R,L. DE C.V. 	empresa	Electromecánica y Automatizados S.A de C.V. 	parent	
-Electromecánica y Automatizados S.A de C.V. 	empresa	Eyasa S de R,L. DE C.V. 	parent	
-	empresa	Electromecánica y Automatizados S.A de C.V. 	shareholder	
-	empresa	Electromecánica y Automatizados S.A de C.V. 	shareholder	
-Miguel Hernandez	persona	Electromecánica y Automatizados S.A de C.V. 	boardmember	Presidente
-	persona	Electromecánica y Automatizados S.A de C.V. 	boardmember	Vicepresidente
-CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	Grupo COSH S.A. DE C.V. 	parent	
-Grupo COSH S.A. DE C.V. 	empresa	Grupo COSH S.A. DE C.V. 	parent	
-Grupo COSH S.A. DE C.V. 	empresa	Grupo COSH S.A. DE C.V. 	parent	
-Miguel Ángel Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	shareholder	
-Jorge Alfredo Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	shareholder	
-Jorge Alfredo Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	boardmember	Presidente
-	persona	Grupo COSH S.A. DE C.V. 	boardmember	Vicepresidente
-CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa			
-Ayesa México S.A. DE C.V. 	empresa	CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	parent	
-Ayesa México S.A. DE C.V. 	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	parent	
-ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	empresa	Ayesa México S.A. DE C.V. 	parent	
-	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	shareholder	
-	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	shareholder	
-José Luis Manzanares Japón	persona	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	boardmember	Presidente
-Arancha Manzanares Abásolo	persona	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	boardmember	Vicepresidente
-GEOSOL S.A. DE C.V. 				
-GEOSOL S.A. DE C.V. 	empresa	GEOSOL S.A. DE C.V. 	parent	
-	empresa	GEOSOL S.A. DE C.V. 	shareholder	
-	empresa	GEOSOL S.A. DE C.V. 	shareholder	
-Manuel Zárate Aquino	persona	GEOSOL S.A. DE C.V. 	boardmember	Presidente
-	persona	GEOSOL S.A. DE C.V. 	boardmember	Vicepresidente
-OPERADORA CICSA SA DE CV	empresa			
-Grupo Carso S.A.B. De C.V. 	empresa	OPERADORA CICSA SA DE CV		
-Grupo Financiero Inbursa S.A.B de C.V. 	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
-BlackRock Inc.	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
-Carlos Slim Helú 	persona	Grupo Carso S.A.B. De C.V. 	boardmember	Presidente 
-Patrick Slim Domit 	persona	Grupo Carso S.A.B. De C.V. 	boardmember	Vicepresidente
-OPERADORA CICSA SA DE CV	empresa			
-FCC Construccion S.A. 	empresa	FCC, S.A. 	parent	
-FCC, S.A. 	empresa	FCC Construccion S.A. 	parent	
-Inversora Carso S.A de C.V. 	empresa	FCC, S.A. 	shareholder	
-Nueva Samede S.L.U. 	empresa	FCC, S.A. 	shareholder	
-Pablo Colio Abril	persona	FCC, S.A. 	boardmember	Presidente 
-Juan José Drago Maslá	persona	FCC, S.A. 	boardmember	Vicepresidente
-CAL Y MAYOR Y ASOCIADOS SC	empresa			
-CAL Y MAYOR Y ASOCIADOS SC	empresa	CAL Y MAYOR Y ASOCIADOS SC	parent	
-	persona	CAL Y MAYOR Y ASOCIADOS SC	shareholder	
-	persona	CAL Y MAYOR Y ASOCIADOS SC	shareholder	
-Patricio Cal y Mayor Leach	persona	CAL Y MAYOR Y ASOCIADOS SC	boardmember	Presidente
-Esperanza Velásquez Botero	persona	CAL Y MAYOR Y ASOCIADOS SC	boardmember	Vicepresidente
-Multidin, S.A. DE C.V. 	empresa			
-Multidin, S.A. DE C.V. 	empresa	Multidin, S.A. DE C.V. 	parent	
-	empresa	Multidin, S.A. DE C.V. 	shareholder	
-	empresa	Multidin, S.A. DE C.V. 	shareholder	
-	persona	Multidin, S.A. DE C.V. 	boardmember	Presidente
-	persona	Multidin, S.A. DE C.V. 	boardmember	Vicepresidente
-ARI Arquitectura e Ingeniería S.A. DE C.V. 	empresa			
-ARI Arquitectura e Ingeniería S.A. DE C.V. 	empresa	ARI Arquitectura e Ingeniería S.A. DE C.V. 	parent	
-	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	shareholder	
-	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	shareholder	
-Javier León	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	boardmember	Presidente
-	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	boardmember	Vicepresidente
-Infraestructura Peninsular, S.A DE C.V. 	empresa			
-	empresa	Infraestructura Peninsular, S.A DE C.V. 	parent	
-	empresa	Infraestructura Peninsular, S.A DE C.V. 	shareholder	
-	empresa	Infraestructura Peninsular, S.A DE C.V. 	shareholder	
-	persona	Infraestructura Peninsular, S.A DE C.V. 	boardmember	Presidente
-	persona	Infraestructura Peninsular, S.A DE C.V. 	boardmember	Vicepresidente
-AZVINDI FERROVIARIO, S.A. DE C.V.	empresa			
-Construcciones Urales S.A de C.V. 	empresa	Grupo Azvi, S.L. 		
-Grupo Azvi, S.L. 	empresa	Construcciones Urales S.A de C.V. 	parent	
-	empresa	Grupo Azvi, S.L. 	shareholder	
-	empresa	Grupo Azvi, S.L. 	shareholder	
-Manuel Contreras Ramos	persona	Grupo Azvi, S.L. 	boardmember	Presidente 
-Manuel Contreras Caro	persona	Grupo Azvi, S.L. 	boardmember	Vicepresidente
-AZVINDI FERROVIARIO, S.A. DE C.V.	empresa			
-GAMI Ingeniería e Instalaciones S.A de C.V. 	empresa 	AZVINDI FERROVIARIO, S.A. DE C.V.	parent	
-Grupo Indi S.A de C.V. 	empresa	GAMI Ingeniería e Instalaciones S.A de C.V. 	parent	
-	empresa	Grupo Indi S.A de C.V. 	shareholder	
-	empresa	Grupo Indi S.A de C.V. 	shareholder	
-Manuel G. Muñozcano	persona	Grupo Indi S.A de C.V. 	boardmember	Presidente 
-	persona	Grupo Indi S.A de C.V. 	boardmember	Vicepresidente
-Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa		parent	
-Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	parent	
-	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	shareholder	
-	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	shareholder	
-Manuel Díaz Canales	persona	Consultoría Integral en Ingeniería S.A. DE C.V. 	boardmember	Presidente
-	persona	Consultoría Integral en Ingeniería S.A. DE C.V. 	boardmember	Vicepresidente
-Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	empresa			
-Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	empresa	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	parent	
-PROINTEC S.A 	empresa	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	shareholder	
-GEOPRIN S.A 	empresa	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	shareholder	
-Alonso Dominguez Herrera 	persona	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	boardmember	Presidente
-	persona	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	boardmember	Vicepresidente
-Consultores de Ingeniería UG21, S.A. DE C.V. 	empresa			
-Consultores de Ingeniería UG21, S.L. 	empresa	Consultores de Ingeniería UG21, S.A. DE C.V. 		
-		Consultores de Ingeniería UG21, S.L. 		
-		Consultores de Ingeniería UG21, S.L. 		
-Ozgur Unay Unay 	persona	Consultores de Ingeniería UG21, S.L. 	boardmember	Presidente
-Manuel González Moles 	persona	Consultores de Ingeniería UG21, S.L. 	boardmember	Vicepresidente
-ICA CONSTRUCTORA SA DE CV	empresa			
-Empresas ICA S.A.B. DE C.V. 	empresa	ICA CONSTRUCTORA SA DE CV	parent	
-David Martinez Guzmán	persona	Empresas ICA S.A.B. DE C.V. 	shareholder	
-Bernardo Quintana Isaac	persona	Empresas ICA S.A.B. DE C.V. 	boardmember	Presidente 
-Guadalupe Philips Margain	persona	Empresas ICA S.A.B. DE C.V. 	boardmember	Vicepresidente
-WOODHOUSE LORENTE LUDLOW SC	empresa 			
-CMS Legal Services EEIG	empresa	WOODHOUSE LORENTE LUDLOW SC	parent	
-Pierre-Sébastien Thill	persona	CMS Legal Services EEIG	boardmember	Presidente 
-Matthias Lichtblau	persona	CMS Legal Services EEIG	boardmember	Vicepresidente
-STEER DAVIES & GLEAVE MEXICO SA DE CV	empresa			
-Steer Davies & Gleave Ltd. 	empresa	STEER DAVIES & GLEAVE MEXICO SA DE CV	parent	
-Suffolk Life 	empresa	STEER DAVIES & GLEAVE MEXICO SA DE CV	shareholder	
-Castlewood Trust Corporation Ltd. 	empresa	STEER DAVIES & GLEAVE MEXICO SA DE CV	shareholder	
-Hugh jones 	persona	STEER DAVIES & GLEAVE MEXICO SA DE CV	boardmember	Presidente 
-Sharon Daly 	persona	STEER DAVIES & GLEAVE MEXICO SA DE CV	boardmember	Vicepresidente
-MEXTYPSA SA DE CV	empresa			
-Técnica y Proyectos S.A. 	empresa	MEXTYPSA SA DE CV	parent	
-	empresa	Técnica y Proyectos S.A. 	shareholder	
-	empresa	Técnica y Proyectos S.A. 	shareholder	
-Pablo Bueno Sainz	persona	Técnica y Proyectos S.A. 	boardmember	Presidente
-Pablo Bueno Tomás 	persona	Técnica y Proyectos S.A. 	boardmember	Presidente 
-PricewaterhouseCoopers S.C. 	empresa			
-PricewaterhpuseCooper International Limited	empresa	PricewaterhouseCoopers S.C. 	parent	
-	empresa	PricewaterhpuseCooper International Limited	shareholder	
-	empresa	PricewaterhpuseCooper International Limited	shareholder	
-Robert E Moritz 	persona	PricewaterhpuseCooper International Limited	boardmember	Presidente
-Wesley Bricker 	persona	PricewaterhpuseCooper International Limited	boardmember	Vicepresidente
-KEY CAPITAL S A P I DE CV	empresa			
-KEY CAPITAL S A P I DE CV	empresa	KEY CAPITAL S A P I DE CV	parent	
-Enrique Prieto 	persona	KEY CAPITAL S A P I DE CV	boardmember	Presidente
-	persona	KEY CAPITAL S A P I DE CV	boardmember	Vicepresidente
-KEY CAPITAL S A P I DE CV	empresa	Senermex Ingeniería y Sistemas S.A. de C.V. 	parent	
-Sener Grupo de  Ingeniería y Sistemas S.A.	empresa	Senermex Ingeniería y Sistemas S.A. de C.V. 	parent	
-Jorge Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	shareholder	
-Andrés Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	shareholder	
-Jorge Sedagorta 	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	boardmember	Presidente
-Andrés Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	boardmember	Vicepresidente
-Daniferrotools S.A  de C.V. 	empresa			
-Daniferrotools S.A  de C.V. 	empresa	Daniferrotools S.A  de C.V. 	parent	
-Diana Rivera Tzek 	persona	Daniferrotools S.A  de C.V. 	shareholder	
-Francisco Vazquez Tzek	persona	Daniferrotools S.A  de C.V. 	shareholder	
-Itzel Mendez Velazquez 	persona	Daniferrotools S.A  de C.V. 	boardmember	Presidente
-Diana Rivera Tzek 	persona	Daniferrotools S.A  de C.V. 	boardmember	Vicepresidente
-Geotest 	empresa			
-Geotecnica y Supervisión Técnica S.A de C.V.  	empresa	Geotest		
-Luis Enrique Atzin	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
-Maria Elena Guevara Escobar	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
-Luis Enrique Atzin	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	boardmember	Presidente
-Maria Elena Guevara Escobar	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	boardmember	Vicepresidente
+"NOMBRE";"TIPO_ENTIDAD";"RELACIONADO_CON";"TIPO_RELACION";"PUESTO"
+"ICA CONSTRUCTORA SA DE CV";"empresa";;;
+"OPERADORA CICSA SA DE CV";"empresa";;;
+"CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.";"empresa";;;
+"AZVINDI FERROVIARIO, S.A. DE C.V.";"empresa";;;
+"MEXTYPSA SA DE CV";"empresa";;;
+"KEY CAPITAL S A P I DE CV";"empresa";;;
+"CAL Y MAYOR Y ASOCIADOS SC";"empresa";;;
+"WOODHOUSE LORENTE LUDLOW SC";"empresa";;;
+"Empresas ICA S.A.B. DE C.V. ";"empresa";"ICA CONSTRUCTORA SA DE CV";"parent";
+"David Martinez Guzmán";"persona";"Empresas ICA S.A.B. DE C.V. ";"shareholder";
+"Bernardo Quintana Isaac";"persona";"Empresas ICA S.A.B. DE C.V. ";"boardmember";"Presidente"
+"Guadalupe Philips Margain";"persona";"Empresas ICA S.A.B. DE C.V. ";"boardmember";"Vicepresidente"
+"Grupo Carso S.A.B. De C.V. ";"empresa";"OPERADORA CICSA SA DE CV";;
+"Grupo Financiero Inbursa S.A.B de C.V. ";"empresa";"Grupo Carso S.A.B. De C.V. ";"shareholder";
+"BlackRock Inc.";"empresa";"Grupo Carso S.A.B. De C.V. ";"shareholder";
+"Carlos Slim Helú ";"persona";"Grupo Carso S.A.B. De C.V. ";"boardmember";"Presidente "
+"Patrick Slim Domit ";"persona";"Grupo Carso S.A.B. De C.V. ";"boardmember";"Vicepresidente"
+"FCC Construccion S.A. ";"empresa";"OPERADORA CICSA SA DE CV";"shareholder";
+"FCC Construccion S.A. ";"empresa";"FCC, S.A. ";"parent";
+"Inversora Carso S.A de C.V. ";"empresa";"FCC, S.A. ";"shareholder";
+"Nueva Samede S.L.U. ";"empresa";"FCC, S.A. ";"shareholder";
+"Pablo Colio Abril";"persona";"FCC, S.A. ";"boardmember";"Presidente "
+"Juan José Drago Maslá";"persona";"FCC, S.A. ";"boardmember";"Vicepresidente"
+"OPERADORA CICSA SA DE CV";"empresa";"CAL Y MAYOR Y ASOCIADOS SC";"shareholder";
+"Patricio Cal y Mayor Leach";"persona";"CAL Y MAYOR Y ASOCIADOS SC";"boardmember";"Presidente"
+"Esperanza Velásquez Botero";"persona";"CAL Y MAYOR Y ASOCIADOS SC";"boardmember";"Vicepresidente"
+"OPERADORA CICSA SA DE CV";"empresa";"Multidin, S.A. DE C.V. ";"shareholder";
+"OPERADORA CICSA SA DE CV";"empresa";"ARI Arquitectura e Ingeniería S.A. DE C.V. ";"shareholder";
+"Javier León";"persona";"ARI Arquitectura e Ingeniería S.A. DE C.V. ";"boardmember";"Presidente"
+"OPERADORA CICSA SA DE CV";"empresa";"Infraestructura Peninsular, S.A DE C.V. ";"shareholder";
+"Construcciones Urales S.A de C.V. ";"empresa";"AZVINDI FERROVIARIO, S.A. DE C.V.";"parent";
+"Grupo Azvi, S.L. ";"empresa";"AZVINDI FERROVIARIO, S.A. DE C.V.";"parent";
+"GAMI Ingeniería e Instalaciones S.A de C.V. ";"empresa";"AZVINDI FERROVIARIO, S.A. DE C.V.";"parent";
+"Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. ";"empresa";"AZVINDI FERROVIARIO, S.A. DE C.V.";"parent";
+"Consultores de Ingeniería UG21, S.A. DE C.V. ";"empresa";"AZVINDI FERROVIARIO, S.A. DE C.V.";"parent";
+"Grupo Azvi, S.L. ";"empresa";"Construcciones Urales S.A de C.V. ";"parent";
+"Manuel Contreras Ramos";"persona";"Grupo Azvi, S.L. ";"boardmember";"Presidente "
+"Manuel Contreras Caro";"persona";"Grupo Azvi, S.L. ";"boardmember";"Vicepresidente"
+"Grupo Indi S.A de C.V. ";"empresa";"GAMI Ingeniería e Instalaciones S.A de C.V. ";"parent";
+"Manuel G. Muñozcano";"persona";"Grupo Indi S.A de C.V. ";"boardmember";"Presidente "
+"Mota-Engil S.A.P.I de C.V. ";"empresa";"CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.";"parent";
+"China Communications Construction Company Ltd.";"empresa";"CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.";"parent";
+"Gavil Ingeniería S.A de C.V. ";"empresa";"CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.";"parent";
+"Eyasa S de R,L. DE C.V. ";"empresa";"CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.";"parent";
+"Grupo COSH S.A. DE C.V. ";"empresa";"CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.";"parent";
+"Mota-Engil S.A.P.I de C.V. ";"empresa";"Mota-Engil, SGPS, S.A. ";"parent";
+"Mota-Engil, SGPS, S.A. ";"empresa";"Mota-Engil S.A.P.I de C.V. ";"parent";
+"Sociedade de Controlo SGPS, SA";"empresa";"Mota-Engil, SGPS, S.A. ";"shareholder";
+"Mutima Capital Management LLC";"empresa";"Mota-Engil, SGPS, S.A. ";"shareholder";
+"Antonio Mota ";"persona";"Mota-Engil, SGPS, S.A. ";"boardmember";"Presidente "
+"Gonzalo Nuno Gomes";"persona ";"Mota-Engil, SGPS, S.A. ";"boardmember";"Vicepresidente"
+"BlackRock Inc.";"empresa";"China Communications Construction Company Ltd.";"shareholder";
+"Wang Tongzhou";"persona";"China Communications Construction Company Ltd.";"boardmember";"Presidente "
+"Zhong Chen";"persona";"China Communications Construction Company Ltd.";"boardmember";"Vicepresidente"
+"Electromecánica y Automatizados S.A de C.V. ";"empresa";"Eyasa S de R,L. DE C.V. ";"parent";
+"Miguel Hernandez";"persona";"Electromecánica y Automatizados S.A de C.V. ";"boardmember";"Presidente"
+"Miguel Ángel Sierra Von Roehrich ";"persona";"Grupo COSH S.A. DE C.V. ";"shareholder";
+"Jorge Alfredo Sierra Von Roehrich ";"persona";"Grupo COSH S.A. DE C.V. ";"shareholder";"Presidente"
+"PROINTEC S.A ";"empresa";"Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. ";"shareholder";
+"GEOPRIN S.A ";"empresa";"Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. ";"shareholder";
+"Alonso Dominguez Herrera ";"persona";"Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. ";"boardmember";"Presidente"
+"Consultores de Ingeniería UG21, S.L. ";"empresa";"Consultores de Ingeniería UG21, S.A. DE C.V. ";;
+"Ozgur Unay Unay ";"persona";"Consultores de Ingeniería UG21, S.L. ";"boardmember";"Presidente"
+"Manuel González Moles ";"persona";"Consultores de Ingeniería UG21, S.L. ";"boardmember";"Vicepresidente"
