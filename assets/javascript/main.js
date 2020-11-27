@@ -72,6 +72,10 @@ $(document).ready(function () {
     
 
         updateParentUrl();
+        
+        setTimeout(() =>{
+            updateParentUrl()
+        },2000)
     }
 
     // when the page loads
@@ -94,8 +98,4 @@ function updateParentUrl() {
     currentHeight += 10;
 
     window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://poderlatam.org");        
-
-    setTimeout(() =>{
-        updateParentUrl()
-    },100)
 }
