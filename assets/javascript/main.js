@@ -90,7 +90,14 @@ $(document).ready(function () {
 
 function updateParentUrl() {
 
-    let currentHeight = $(".home-content > div").height() || $(".section.active").height() || $("body").height();
+    let currentHeight = 800;
+    
+    if ($(".home-content > div").length != 0 || $(".section.active").length != 0 ) {
+        currentHeight = 800;
+    }
+    else {
+        currentHeight = $("body").height();
+    }
 
     console.log("home", $(".home-content > div").height(), "slider", $(".section.active").height(), "body", $("body").height(), "current", currentHeight);
 
