@@ -7,10 +7,40 @@ Antonio Mota 	persona	Mota-Engil, SGPS, S.A. 	boardmember	Presidente
 Gonzalo Nuno Gomes	persona 	Mota-Engil, SGPS, S.A. 	boardmember	Vicepresidente
 China Communications Construction Company Ltd.	empresa			
 China Communications Construction Company Ltd.	empresa	China Communications Construction Company Ltd.	parent	
-China Securities Finance Corp.	persona	China Communications Construction Company Ltd.	shareholder	
+China Securities Finance Corp.	empresa	China Communications Construction Company Ltd.	shareholder	
 BlackRock Inc.	empresa	China Communications Construction Company Ltd.	shareholder	
 Wang Tongzhou	persona	China Communications Construction Company Ltd.	boardmember	Presidente 
 Zhong Chen	persona	China Communications Construction Company Ltd.	boardmember	Vicepresidente
+Gavil Ingeniería S.A de C.V. 	empresa			
+Gavil Ingeniería S.A de C.V. 	empresa	Gavil Ingeniería S.A de C.V. 	parent	
+	empresa	Gavil Ingeniería S.A de C.V. 	shareholder	
+	empresa	Gavil Ingeniería S.A de C.V. 	shareholder	
+	persona	Gavil Ingeniería S.A de C.V. 	boardmember	
+	persona	Gavil Ingeniería S.A de C.V. 	boardmember	
+Eyasa S de R,L. DE C.V. 	empresa			
+Electromecánica y Automatizados S.A de C.V. 	empresa	Eyasa S de R,L. DE C.V. 	parent	
+	empresa	Electromecánica y Automatizados S.A de C.V. 	shareholder	
+	empresa	Electromecánica y Automatizados S.A de C.V. 	shareholder	
+Miguel Hernandez	persona	Electromecánica y Automatizados S.A de C.V. 	boardmember	Presidente
+	persona	Electromecánica y Automatizados S.A de C.V. 	boardmember	Vicepresidente
+Grupo COSH S.A. DE C.V. 				
+Grupo COSH S.A. DE C.V. 	empresa	Grupo COSH S.A. DE C.V. 	parent	
+Miguel Ángel Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	shareholder	
+Jorge Alfredo Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	shareholder	
+Jorge Alfredo Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	boardmember	Presidente
+	persona	Grupo COSH S.A. DE C.V. 	boardmember	Vicepresidente
+Ayesa México S.A. DE C.V. 				
+ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	empresa	Ayesa México S.A. DE C.V. 	parent	
+	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	shareholder	
+	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	shareholder	
+José Luis Manzanares Japón	persona	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	boardmember	Presidente
+Arancha Manzanares Abásolo	persona	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	boardmember	Vicepresidente
+GEOSOL S.A. DE C.V. 				
+GEOSOL S.A. DE C.V. 	empresa	GEOSOL S.A. DE C.V. 	parent	
+	empresa	GEOSOL S.A. DE C.V. 	shareholder	
+	empresa	GEOSOL S.A. DE C.V. 	shareholder	
+Manuel Zárate Aquino	persona	GEOSOL S.A. DE C.V. 	boardmember	Presidente
+	persona	GEOSOL S.A. DE C.V. 	boardmember	Vicepresidente
 Operadora Cicsa S.A. de C.V.	empresa			
 Grupo Carso S.A.B. De C.V. 	empresa	Operadora Cicsa S.A. de C.V.		
 Grupo Financiero Inbursa S.A.B de C.V. 	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
@@ -23,6 +53,30 @@ Inversora Carso S.A de C.V. 	empresa	FCC, S.A. 	shareholder
 Nueva Samede S.L.U. 	empresa	FCC, S.A. 	shareholder	
 Pablo Colio Abril	persona	FCC, S.A. 	boardmember	Presidente 
 Juan José Drago Maslá	persona	FCC, S.A. 	boardmember	Vicepresidente
+Cal y Mayor y Asociados, S.C. 	empresa			
+Cal y Mayor y Asociados, S.C. 	empresa	Cal y Mayor y Asociados, S.C. 	parent	
+	persona	Cal y Mayor y Asociados, S.C. 	shareholder	
+	persona	Cal y Mayor y Asociados, S.C. 	shareholder	
+Patricio Cal y Mayor Leach	persona	Cal y Mayor y Asociados, S.C. 	boardmember	Presidente
+Esperanza Velásquez Botero	persona	Cal y Mayor y Asociados, S.C. 	boardmember	Vicepresidente
+Multidin, S.A. DE C.V. 	empresa			
+Multidin, S.A. DE C.V. 	empresa	Multidin, S.A. DE C.V. 	parent	
+	empresa	Multidin, S.A. DE C.V. 	shareholder	
+	empresa	Multidin, S.A. DE C.V. 	shareholder	
+	persona	Multidin, S.A. DE C.V. 	boardmember	Presidente
+	persona	Multidin, S.A. DE C.V. 	boardmember	Vicepresidente
+ARI Arquitectura e Ingeniería S.A. DE C.V. 	empresa			
+ARI Arquitectura e Ingeniería S.A. DE C.V. 	empresa	ARI Arquitectura e Ingeniería S.A. DE C.V. 	parent	
+	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	shareholder	
+	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	shareholder	
+Javier León	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	boardmember	Presidente
+	persona	ARI Arquitectura e Ingeniería S.A. DE C.V. 	boardmember	Vicepresidente
+Infraestructura Peninsular, S.A DE C.V. 	empresa			
+	empresa	Infraestructura Peninsular, S.A DE C.V. 	parent	
+	empresa	Infraestructura Peninsular, S.A DE C.V. 	shareholder	
+	empresa	Infraestructura Peninsular, S.A DE C.V. 	shareholder	
+	persona	Infraestructura Peninsular, S.A DE C.V. 	boardmember	Presidente
+	persona	Infraestructura Peninsular, S.A DE C.V. 	boardmember	Vicepresidente
 Construcciones Urales S.A de C.V. 	empresa			
 Grupo Azvi, S.L. 	empresa	Construcciones Urales S.A de C.V. 	parent	
 	empresa	Grupo Azvi, S.L. 	shareholder	
@@ -35,6 +89,24 @@ Grupo Indi S.A de C.V. 	empresa	GAMI Ingeniería e Instalaciones S.A de C.V. 	pa
 	empresa	Grupo Indi S.A de C.V. 	shareholder	
 Manuel G. Muñozcano	persona	Grupo Indi S.A de C.V. 	boardmember	Presidente 
 	persona	Grupo Indi S.A de C.V. 	boardmember	Vicepresidente
+Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa			
+Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	parent	
+	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	shareholder	
+	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	shareholder	
+Manuel Díaz Canales	persona	Consultoría Integral en Ingeniería S.A. DE C.V. 	boardmember	Presidente
+	persona	Consultoría Integral en Ingeniería S.A. DE C.V. 	boardmember	Vicepresidente
+Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	empresa			
+Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	empresa	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	parent	
+PROINTEC S.A 	empresa	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	shareholder	
+GEOPRIN S.A 	empresa	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	shareholder	
+Alonso Dominguez Herrera 	persona	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	boardmember	Presidente
+	persona	Ingeniería de Proyectos e Infraestructuras Mexicanas S.A. DE C.V. 	boardmember	Vicepresidente
+Consultores de Ingeniería UG21, S.A. DE C.V. 	empresa			
+Consultores de Ingeniería UG21, S.L. 	empresa	Consultores de Ingeniería UG21, S.A. DE C.V. 		
+		Consultores de Ingeniería UG21, S.L. 		
+		Consultores de Ingeniería UG21, S.L. 		
+Ozgur Unay Unay 	persona	Consultores de Ingeniería UG21, S.L. 	boardmember	Presidente
+Manuel González Moles 	persona	Consultores de Ingeniería UG21, S.L. 	boardmember	Vicepresidente
 Empresas ICA S.A.B. DE C.V. 	empresa			
 Empresas ICA S.A.B. DE C.V. 	empresa	Empresas ICA S.A.B. DE C.V. 	parent	
 David Martinez Guzmán	persona	Empresas ICA S.A.B. DE C.V. 	shareholder	
@@ -79,13 +151,13 @@ Jorge Sedagorta 	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	boardmember
 Andrés Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	boardmember	Vicepresidente
 Daniferrotools S.A  de C.V. 	empresa			
 Daniferrotools S.A  de C.V. 	empresa	Daniferrotools S.A  de C.V. 	parent	
-Diana Rivera Tzek 	empresa	Daniferrotools S.A  de C.V. 	shareholder	
-Francisco Vazquez Tzek	empresa	Daniferrotools S.A  de C.V. 	shareholder	
+Diana Rivera Tzek 	persona	Daniferrotools S.A  de C.V. 	shareholder	
+Francisco Vazquez Tzek	persona	Daniferrotools S.A  de C.V. 	shareholder	
 Itzel Mendez Velazquez 	persona	Daniferrotools S.A  de C.V. 	boardmember	Presidente
 Diana Rivera Tzek 	persona	Daniferrotools S.A  de C.V. 	boardmember	Vicepresidente
 Geotest 	empresa			
 Geotecnica y Supervisión Técnica S.A de C.V.  	empresa	Geotest		
-Luis Enrique Atzin	empresa	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
-Maria Elena Guevara Escobar	empresa	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
+Luis Enrique Atzin	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
+Maria Elena Guevara Escobar	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	shareholder	
 Luis Enrique Atzin	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	boardmember	Presidente
 Maria Elena Guevara Escobar	persona	Geotecnica y Supervisión Técnica S.A de C.V.  	boardmember	Vicepresidente
