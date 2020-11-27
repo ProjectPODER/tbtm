@@ -72,7 +72,7 @@ $(document).ready(function () {
     
 
         updateParentUrl();
-        
+
         setTimeout(() =>{
             updateParentUrl()
         },2000)
@@ -90,9 +90,9 @@ $(document).ready(function () {
 
 function updateParentUrl() {
 
-    let currentHeight = $(".home-content > div > div").height() || $(".section.active").height() || $("body").height();
+    let currentHeight = $(".home-content > div").height() || $(".section.active").height() || $("body").height();
 
-    console.log("home", $(".home-content > div > div").height(), "slider", $(".section.active").height(), "body", $("body").height(), "current", currentHeight);
+    console.log("home", $(".home-content > div").height(), "slider", $(".section.active").height(), "body", $("body").height(), "current", currentHeight);
 
     //Some pages don't measure correctly
     currentHeight += 10;
