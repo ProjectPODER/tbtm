@@ -84,7 +84,9 @@ function updateParentUrl() {
 
     $("section a").attr("target","_parent");
 
-    let currentHeight = $(".section.active").height() || $("body").height();
+    let currentHeight = $(".home-content > div > div").height() || $(".section.active").height() || $("body").height();
+
+    console.log("home", $(".home-content > div > div").height(), "slider", $(".section.active").height(), "body", $("body").height(), "current", currentHeight);
 
     if (currentHeight < 700) {
         setTimeout(() =>{
