@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: tren_maya_v4.png
+image: TM_mapa_limpio_v2.png
 ---
 
 # El Tren Maya y las extractivas
