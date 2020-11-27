@@ -91,18 +91,17 @@ $(document).ready(function () {
 function updateParentUrl() {
 
     let currentHeight = 800;
-    
+
     if ($(".home-content > div").length != 0 || $(".section.active").length != 0 ) {
         currentHeight = 800;
     }
     else {
-        currentHeight = $("body").height();
+        currentHeight = $("html").height();
     }
 
-    console.log("home", $(".home-content > div").height(), "slider", $(".section.active").height(), "body", $("body").height(), "current", currentHeight);
 
-    //Some pages don't measure correctly
-    currentHeight += 10;
+    console.log("currentHeight", currentHeight);
+
 
     window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://poderlatam.org");        
 }
