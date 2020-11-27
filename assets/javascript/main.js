@@ -97,5 +97,5 @@ function updateParentUrl() {
 
     setTimeout(() =>{
         updateParentUrl()
-    },2000)
+    },2)
 }
