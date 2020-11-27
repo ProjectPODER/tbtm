@@ -61,6 +61,16 @@ $(document).ready(function () {
             }
         });
 
+
+        //Listen for incoming messages and reidrect
+        window.addEventListener("message", (event) => {
+            // console.log("tb",event);
+            if (event.data.url) {
+                window.location.pathname=event.data.url.substr(1);
+            }
+        });
+    
+
         updateParentUrl();
     }
 
@@ -75,23 +85,17 @@ $(document).ready(function () {
 });
 
 function updateParentUrl() {
-    window.addEventListener("message", (event) => {
-        // console.log("tb",event);
-        if (event.data.url) {
-            window.location.pathname=event.data.url.substr(1);
-        }
-    });
-
-    $("section a").attr("target","_parent");
 
     let currentHeight = $(".home-content > div > div").height() || $(".section.active").height() || $("body").height();
 
     console.log("home", $(".home-content > div > div").height(), "slider", $(".section.active").height(), "body", $("body").height(), "current", currentHeight);
 
-    if (currentHeight < 700) {
-        setTimeout(() =>{
-            window.parent.postMessage({ height: currentHeight + 105 },"https://poderlatam.org");        
-        },2000)
-    }
+    //Some pages don't measure correctly
+    currentHeight += 10;
+
     window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://poderlatam.org");        
+
+    setTimeout(() =>{
+        updateParentUrl()
+    },2000)
 }
