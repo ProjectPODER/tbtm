@@ -1,11 +1,13 @@
 NOMBRE	TIPO_ENTIDAD	RELACIONADO CON	TIPO_RELACION	PUESTO
-Mota-Engil S.A.P.I de C.V. 	empresa			
+CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	Mota-Engil S.A.P.I de C.V. 	parent	
+Mota-Engil S.A.P.I de C.V. 	empresa	Mota-Engil, SGPS, S.A. 	parent	
 Mota-Engil, SGPS, S.A. 	empresa	Mota-Engil S.A.P.I de C.V. 	parent	
 Sociedade de Controlo SGPS, SA	empresa	Mota-Engil, SGPS, S.A. 	shareholder	
 Mutima Capital Management LLC	empresa	Mota-Engil, SGPS, S.A. 	shareholder	
 Antonio Mota 	persona	Mota-Engil, SGPS, S.A. 	boardmember	Presidente 
 Gonzalo Nuno Gomes	persona 	Mota-Engil, SGPS, S.A. 	boardmember	Vicepresidente
-China Communications Construction Company Ltd.	empresa			
+CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	China Communications Construction Company Ltd.	parent	
+China Communications Construction Company Ltd.	empresa	China Communications Construction Company Ltd.	parent	
 China Communications Construction Company Ltd.	empresa	China Communications Construction Company Ltd.	parent	
 China Securities Finance Corp.	empresa	China Communications Construction Company Ltd.	shareholder	
 BlackRock Inc.	empresa	China Communications Construction Company Ltd.	shareholder	
@@ -17,19 +19,23 @@ Gavil Ingeniería S.A de C.V. 	empresa	Gavil Ingeniería S.A de C.V. 	parent
 	empresa	Gavil Ingeniería S.A de C.V. 	shareholder	
 	persona	Gavil Ingeniería S.A de C.V. 	boardmember	
 	persona	Gavil Ingeniería S.A de C.V. 	boardmember	
-Eyasa S de R,L. DE C.V. 	empresa			
+CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	Eyasa S de R,L. DE C.V. 	parent	
+Eyasa S de R,L. DE C.V. 	empresa	Electromecánica y Automatizados S.A de C.V. 	parent	
 Electromecánica y Automatizados S.A de C.V. 	empresa	Eyasa S de R,L. DE C.V. 	parent	
 	empresa	Electromecánica y Automatizados S.A de C.V. 	shareholder	
 	empresa	Electromecánica y Automatizados S.A de C.V. 	shareholder	
 Miguel Hernandez	persona	Electromecánica y Automatizados S.A de C.V. 	boardmember	Presidente
 	persona	Electromecánica y Automatizados S.A de C.V. 	boardmember	Vicepresidente
-Grupo COSH S.A. DE C.V. 				
+CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa	Grupo COSH S.A. DE C.V. 	parent	
+Grupo COSH S.A. DE C.V. 	empresa	Grupo COSH S.A. DE C.V. 	parent	
 Grupo COSH S.A. DE C.V. 	empresa	Grupo COSH S.A. DE C.V. 	parent	
 Miguel Ángel Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	shareholder	
 Jorge Alfredo Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	shareholder	
 Jorge Alfredo Sierra Von Roehrich 	persona	Grupo COSH S.A. DE C.V. 	boardmember	Presidente
 	persona	Grupo COSH S.A. DE C.V. 	boardmember	Vicepresidente
-Ayesa México S.A. DE C.V. 				
+CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	empresa			
+Ayesa México S.A. DE C.V. 	empresa	CONSORCIO LAMAT TRAMO 1, S.A.P.I DE C.V.	parent	
+Ayesa México S.A. DE C.V. 	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	parent	
 ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	empresa	Ayesa México S.A. DE C.V. 	parent	
 	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	shareholder	
 	empresa	ALIA GESTIÓN INTEGRAL DE SERVICIOS S.L. 	shareholder	
@@ -41,24 +47,25 @@ GEOSOL S.A. DE C.V. 	empresa	GEOSOL S.A. DE C.V. 	parent
 	empresa	GEOSOL S.A. DE C.V. 	shareholder	
 Manuel Zárate Aquino	persona	GEOSOL S.A. DE C.V. 	boardmember	Presidente
 	persona	GEOSOL S.A. DE C.V. 	boardmember	Vicepresidente
-Operadora Cicsa S.A. de C.V.	empresa			
-Grupo Carso S.A.B. De C.V. 	empresa	Operadora Cicsa S.A. de C.V.		
+OPERADORA CICSA SA DE CV	empresa			
+Grupo Carso S.A.B. De C.V. 	empresa	OPERADORA CICSA SA DE CV		
 Grupo Financiero Inbursa S.A.B de C.V. 	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
 BlackRock Inc.	empresa	Grupo Carso S.A.B. De C.V. 	shareholder	
 Carlos Slim Helú 	persona	Grupo Carso S.A.B. De C.V. 	boardmember	Presidente 
 Patrick Slim Domit 	persona	Grupo Carso S.A.B. De C.V. 	boardmember	Vicepresidente
-FCC Construccion S.A. 	empresa			
+OPERADORA CICSA SA DE CV	empresa			
+FCC Construccion S.A. 	empresa	FCC, S.A. 	parent	
 FCC, S.A. 	empresa	FCC Construccion S.A. 	parent	
 Inversora Carso S.A de C.V. 	empresa	FCC, S.A. 	shareholder	
 Nueva Samede S.L.U. 	empresa	FCC, S.A. 	shareholder	
 Pablo Colio Abril	persona	FCC, S.A. 	boardmember	Presidente 
 Juan José Drago Maslá	persona	FCC, S.A. 	boardmember	Vicepresidente
-Cal y Mayor y Asociados, S.C. 	empresa			
-Cal y Mayor y Asociados, S.C. 	empresa	Cal y Mayor y Asociados, S.C. 	parent	
-	persona	Cal y Mayor y Asociados, S.C. 	shareholder	
-	persona	Cal y Mayor y Asociados, S.C. 	shareholder	
-Patricio Cal y Mayor Leach	persona	Cal y Mayor y Asociados, S.C. 	boardmember	Presidente
-Esperanza Velásquez Botero	persona	Cal y Mayor y Asociados, S.C. 	boardmember	Vicepresidente
+CAL Y MAYOR Y ASOCIADOS SC	empresa			
+CAL Y MAYOR Y ASOCIADOS SC	empresa	CAL Y MAYOR Y ASOCIADOS SC	parent	
+	persona	CAL Y MAYOR Y ASOCIADOS SC	shareholder	
+	persona	CAL Y MAYOR Y ASOCIADOS SC	shareholder	
+Patricio Cal y Mayor Leach	persona	CAL Y MAYOR Y ASOCIADOS SC	boardmember	Presidente
+Esperanza Velásquez Botero	persona	CAL Y MAYOR Y ASOCIADOS SC	boardmember	Vicepresidente
 Multidin, S.A. DE C.V. 	empresa			
 Multidin, S.A. DE C.V. 	empresa	Multidin, S.A. DE C.V. 	parent	
 	empresa	Multidin, S.A. DE C.V. 	shareholder	
@@ -77,19 +84,21 @@ Infraestructura Peninsular, S.A DE C.V. 	empresa
 	empresa	Infraestructura Peninsular, S.A DE C.V. 	shareholder	
 	persona	Infraestructura Peninsular, S.A DE C.V. 	boardmember	Presidente
 	persona	Infraestructura Peninsular, S.A DE C.V. 	boardmember	Vicepresidente
-Construcciones Urales S.A de C.V. 	empresa			
+AZVINDI FERROVIARIO, S.A. DE C.V.	empresa			
+Construcciones Urales S.A de C.V. 	empresa	Grupo Azvi, S.L. 		
 Grupo Azvi, S.L. 	empresa	Construcciones Urales S.A de C.V. 	parent	
 	empresa	Grupo Azvi, S.L. 	shareholder	
 	empresa	Grupo Azvi, S.L. 	shareholder	
 Manuel Contreras Ramos	persona	Grupo Azvi, S.L. 	boardmember	Presidente 
 Manuel Contreras Caro	persona	Grupo Azvi, S.L. 	boardmember	Vicepresidente
-GAMI Ingeniería e Instalaciones S.A de C.V. 	empresa 			
+AZVINDI FERROVIARIO, S.A. DE C.V.	empresa			
+GAMI Ingeniería e Instalaciones S.A de C.V. 	empresa 	AZVINDI FERROVIARIO, S.A. DE C.V.	parent	
 Grupo Indi S.A de C.V. 	empresa	GAMI Ingeniería e Instalaciones S.A de C.V. 	parent	
 	empresa	Grupo Indi S.A de C.V. 	shareholder	
 	empresa	Grupo Indi S.A de C.V. 	shareholder	
 Manuel G. Muñozcano	persona	Grupo Indi S.A de C.V. 	boardmember	Presidente 
 	persona	Grupo Indi S.A de C.V. 	boardmember	Vicepresidente
-Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa			
+Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa		parent	
 Consultoría Integral en Ingeniería S.A. DE C.V. 	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	parent	
 	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	shareholder	
 	empresa	Consultoría Integral en Ingeniería S.A. DE C.V. 	shareholder	
@@ -107,26 +116,23 @@ Consultores de Ingeniería UG21, S.L. 	empresa	Consultores de Ingeniería UG21, 
 		Consultores de Ingeniería UG21, S.L. 		
 Ozgur Unay Unay 	persona	Consultores de Ingeniería UG21, S.L. 	boardmember	Presidente
 Manuel González Moles 	persona	Consultores de Ingeniería UG21, S.L. 	boardmember	Vicepresidente
-Empresas ICA S.A.B. DE C.V. 	empresa			
-Empresas ICA S.A.B. DE C.V. 	empresa	Empresas ICA S.A.B. DE C.V. 	parent	
+ICA CONSTRUCTORA SA DE CV	empresa			
+Empresas ICA S.A.B. DE C.V. 	empresa	ICA CONSTRUCTORA SA DE CV	parent	
 David Martinez Guzmán	persona	Empresas ICA S.A.B. DE C.V. 	shareholder	
-	empresa	Empresas ICA S.A.B. DE C.V. 	shareholder	
 Bernardo Quintana Isaac	persona	Empresas ICA S.A.B. DE C.V. 	boardmember	Presidente 
 Guadalupe Philips Margain	persona	Empresas ICA S.A.B. DE C.V. 	boardmember	Vicepresidente
-Woodhouse Lorente Ludlow SC	empresa 			
-CMS Legal Services EEIG	empresa	Woodhouse Lorente Ludlow SC	parent	
-	empresa	CMS Legal Services EEIG	shareholder	
-	empresa	CMS Legal Services EEIG	shareholder	
+WOODHOUSE LORENTE LUDLOW SC	empresa 			
+CMS Legal Services EEIG	empresa	WOODHOUSE LORENTE LUDLOW SC	parent	
 Pierre-Sébastien Thill	persona	CMS Legal Services EEIG	boardmember	Presidente 
 Matthias Lichtblau	persona	CMS Legal Services EEIG	boardmember	Vicepresidente
-Steer Davies & Gleave México S.A de C.V. 	empresa			
-Steer Davies & Gleave Ltd. 	empresa	Steer Davies & Gleave México S.A de C.V. 	parent	
-Suffolk Life 	empresa	Steer Davies & Gleave México S.A de C.V. 	shareholder	
-Castlewood Trust Corporation Ltd. 	empresa	Steer Davies & Gleave México S.A de C.V. 	shareholder	
-Hugh jones 	persona	Steer Davies & Gleave México S.A de C.V. 	boardmember	Presidente 
-Sharon Daly 	persona	Steer Davies & Gleave México S.A de C.V. 	boardmember	Vicepresidente
-Mextypsa S.A de C.V. 	empresa			
-Técnica y Proyectos S.A. 	empresa	Mextypsa S.A de C.V. 	parent	
+STEER DAVIES & GLEAVE MEXICO SA DE CV	empresa			
+Steer Davies & Gleave Ltd. 	empresa	STEER DAVIES & GLEAVE MEXICO SA DE CV	parent	
+Suffolk Life 	empresa	STEER DAVIES & GLEAVE MEXICO SA DE CV	shareholder	
+Castlewood Trust Corporation Ltd. 	empresa	STEER DAVIES & GLEAVE MEXICO SA DE CV	shareholder	
+Hugh jones 	persona	STEER DAVIES & GLEAVE MEXICO SA DE CV	boardmember	Presidente 
+Sharon Daly 	persona	STEER DAVIES & GLEAVE MEXICO SA DE CV	boardmember	Vicepresidente
+MEXTYPSA SA DE CV	empresa			
+Técnica y Proyectos S.A. 	empresa	MEXTYPSA SA DE CV	parent	
 	empresa	Técnica y Proyectos S.A. 	shareholder	
 	empresa	Técnica y Proyectos S.A. 	shareholder	
 Pablo Bueno Sainz	persona	Técnica y Proyectos S.A. 	boardmember	Presidente
@@ -137,13 +143,11 @@ PricewaterhpuseCooper International Limited	empresa	PricewaterhouseCoopers S.C. 
 	empresa	PricewaterhpuseCooper International Limited	shareholder	
 Robert E Moritz 	persona	PricewaterhpuseCooper International Limited	boardmember	Presidente
 Wesley Bricker 	persona	PricewaterhpuseCooper International Limited	boardmember	Vicepresidente
-Key Capital S.A.P.I. DE C.V. 	empresa			
-Key Capital S.A.P.I. DE C.V. 	empresa	Key Capital S.A.P.I. DE C.V. 	parent	
-	empresa	Key Capital S.A.P.I. DE C.V. 	shareholder	
-	empresa	Key Capital S.A.P.I. DE C.V. 	shareholder	
-Enrique Prieto 	persona	Key Capital S.A.P.I. DE C.V. 	boardmember	Presidente
-	persona	Key Capital S.A.P.I. DE C.V. 	boardmember	Vicepresidente
-Senermex Ingeniería y Sistemas S.A. de C.V. 	empresa			
+KEY CAPITAL S A P I DE CV	empresa			
+KEY CAPITAL S A P I DE CV	empresa	KEY CAPITAL S A P I DE CV	parent	
+Enrique Prieto 	persona	KEY CAPITAL S A P I DE CV	boardmember	Presidente
+	persona	KEY CAPITAL S A P I DE CV	boardmember	Vicepresidente
+KEY CAPITAL S A P I DE CV	empresa	Senermex Ingeniería y Sistemas S.A. de C.V. 	parent	
 Sener Grupo de  Ingeniería y Sistemas S.A.	empresa	Senermex Ingeniería y Sistemas S.A. de C.V. 	parent	
 Jorge Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	shareholder	
 Andrés Sendagorta	persona	Sener Grupo de  Ingeniería y Sistemas S.A.	shareholder	
