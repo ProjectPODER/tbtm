@@ -84,11 +84,11 @@ function updateParentUrl() {
 
     $("section a").attr("target","_parent");
 
-    let currentHeight = $("body").height();
+    let currentHeight = $(".section.active").height() || $("body").height();
 
     if (currentHeight < 700) {
         setTimeout(() =>{
-            window.parent.postMessage({ height: $("body").height() + 100 },"https://poderlatam.org");        
+            window.parent.postMessage({ height: currentHeight + 105 },"https://poderlatam.org");        
         },2000)
     }
     window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://poderlatam.org");        
