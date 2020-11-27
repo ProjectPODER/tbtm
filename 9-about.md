@@ -33,7 +33,7 @@ Cartografía: Samantha Camacho.
 
 Desarrollo: Marisol Carrillo.
 
-Diseño editorial e ilustración: Maria Fernanda Wray y Adrián Sánchez Martínez.
+Diseño editorial e ilustración: Adrián Sánchez Martínez.
 
 Comunicación externa: María Fernanda Wray y Mariela Álvarez Alatriste.
 
