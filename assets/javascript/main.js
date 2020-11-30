@@ -97,7 +97,7 @@ function updateParentUrl() {
         currentHeight = $("html").height();
     }
 
-    console.log("currentHeight", currentHeight);
+    // console.log("currentHeight", currentHeight);
 
-    window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://*.poderlatam.org");        
+    window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://trenmaya.poderlatam.org");        
 }
