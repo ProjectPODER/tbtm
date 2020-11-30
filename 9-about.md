@@ -35,7 +35,9 @@ Desarrollo: Marisol Carrillo.
 
 Diseño editorial e ilustración: Adrián Sánchez Martínez.
 
-Comunicación externa: María Fernanda Wray y Mariela Álvarez Alatriste.
+Redes sociales: Mariela Álvarez Alatriste.
+
+Coordinación de Comunicación Externa: María Fernanda Wray.
 
 Coordinación de Periodismo y Datos: Claudia Ocaranza.
 
@@ -43,4 +45,4 @@ Coordinación de Desarrollo: Martin Szyszlican.
 
 Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregón.
 
-Co-Dirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
+Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
