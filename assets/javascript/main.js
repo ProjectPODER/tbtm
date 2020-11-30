@@ -89,19 +89,15 @@ $(document).ready(function () {
 });
 
 function updateParentUrl() {
-
+    //Default minimum height
     let currentHeight = 800;
 
-    if ($(".home-content > div").length != 0 || $(".section.active").length != 0 ) {
-        currentHeight = 800;
-    }
-    else {
+    //Don't calculate height on home and sliders
+    if ($(".home-content > div, .section.active").length == 0) {
         currentHeight = $("html").height();
     }
 
-
     console.log("currentHeight", currentHeight);
 
-
-    window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://poderlatam.org");        
+    window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://*.poderlatam.org");        
 }
