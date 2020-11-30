@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: TM_prueba2.png
+image: infog_constructorasTMok.png
 ---
 
 # Empresas constructoras del Tren Maya
