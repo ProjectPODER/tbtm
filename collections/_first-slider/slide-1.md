@@ -8,3 +8,7 @@ Existen 75 proyectos extractivos de energía en el sureste mexicano que se benef
 La información que presentamos en el mapa corresponde a la ubicación de 48 de los 75 proyectos vigentes reportados por la Secretaría de Energía (SENER) y Secretaría de Medio Ambiente y Recursos Naturales (Semarnat), entre 2018 y 2019. A la fecha de esta publicación la ubicación exacta del resto de proyectos está pendiente de ser entregada por las autoridades.
 
 <a class="btn btn-primary" href="https://poderlatam.org/2020/12/el-tren-maya-y-las-extractivas/" target="_blank">Ve el mapa completo</a>
+<br>
+<br>
+<br>
+<a id="moveSectionDown" href="#">Siguiente <img class="down-arrow" src="{{ site.baseurl }}/assets/img/arrow-down-solid.svg" alt="Abajo"></a>

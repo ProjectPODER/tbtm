@@ -39,7 +39,6 @@ $(document).ready(function() {
 	    lazyLoading: true,
 	    paddingTop: '10px',
 		paddingBottom: '30px',
-		scrollOverflow: true,
 		responsiveWidth: 992,
         afterResponsive: function(isResponsive){
         },
@@ -47,14 +46,20 @@ $(document).ready(function() {
 			window.load = function () {
 			  $('#page-loader').fadeOut(500);
 			}();
-		}
-	  });
+		},
+	});		
+	$('#moveSectionDown').click(function(e){
+		e.preventDefault();
+		$.fn.fullpage.moveSectionDown();
 	});
+});
 
-	var anchors = [
+
+var anchors = [
 	{% for first-slide in site.first-slider %}
-	  {% capture id %}{{ first-slide.id | remove:'/' | remove:'first-slider' | downcase }}{% endcapture %}
-	  '{{id}}'{% if forloop.last == false %},{% endif %}
+	{% capture id %}{{ first-slide.id | remove:'/' | remove:'first-slider' | downcase }}{% endcapture %}
+	'{{id}}'{% if forloop.last == false %},{% endif %}
 	{% endfor %}
-	]
+]
+
 </script>
