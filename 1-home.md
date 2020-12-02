@@ -13,4 +13,4 @@ El proyecto convertirá a la ruta por donde pasa el tren en un centro para la pr
 [Pérdidas sociales](/reportajes)
 [Ganancias empresariales](/quienes-ganan)
 [Activos energéticos](/duenos-de-las-vias)
-[Pasivos ambientales](https://poderlatam.org/2020/12/la-amenaza-maya-el-tren-y-la-inmobiliaria/)
+[Pasivos ambientales](https://poderlatam.org/2020/12/la-amenaza-maya-el-tren-y-la-inmobiliaria/){:target="_blank"}

@@ -1398,6 +1398,7 @@ function setupFullPage() {
     lazyLoading: true,
     paddingTop: '10px',
     paddingBottom: '30px',
+    scrollOverflow: true,
     responsiveWidth: 992,
     afterResponsive: function(isResponsive){
     },

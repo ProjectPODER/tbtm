@@ -4,7 +4,7 @@ title: El tren de las élites
 permalink: /informeTM/
 ---
 
-# Empresas beneficiadas y proyectos energéticos en el sureste
+# Empresas beneficiadas y proyectos energéticos <br>en el sureste
 
 El Tren Maya ha levantado fuertes cuestionamientos por las afectaciones que tendría en el medio ambiente, en el patrimonio histórico de la región y en los derechos de los pueblos y comunidades indígenas. Este informe de investigación analiza el papel que juega este proyecto en el modelo de desarrollo que se quiere imponer en la región sureste del país y cuáles son los actores realmente beneficiados con su construcción.
 
@@ -15,6 +15,10 @@ La investigación concluye que el proyecto beneficiará a grandes empresas, care
 Todas las afirmaciones realizadas en este informe se fundamentan en información pública de Fonatur, la Secretaría de Hacienda y Crédito Público, la Presidencia de la República, el Centro de Estudios Sociales y de Opinión Pública de la Cámara de Diputados y la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat). Para conocer el contexto actual de las asignaciones de proyectos de energía en la región sureste se usó información entregada por la Secretaría de Energía y la Semarnat vía la Pataforma Nacional de Transparencia. También se consultaron la Manifestación de Impacto Ambiental del proyecto y los documentos publicados por el Instituto Nacional de los Pueblos Indígenas y la Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos en México.
 
 
-<div class="embed-responsive embed-responsive-1by1 mb-5">
-  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/docs/ElTrendelasElites.pdf"></iframe>
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe class="embed-responsive-item" src="/assets/docs/ElTrendelasElites.pdf"></iframe>
+</div>
+
+<div class="text-center mb-5">
+  <a class="btn btn-primary" href="https://tbtm.poderlatam.org/assets/docs/ElTrendelasElites.pdf" target="_blank" download>Descarga el informe</a>
 </div>
