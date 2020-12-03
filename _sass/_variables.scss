@@ -28,7 +28,7 @@ $cyan:    #1491a5 !default;
 
 $primary:       #980415 !default;
 $secondary:     #ec5e32!default;
-$success:       $green !default;
+$success:       #3286C7 !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
@@ -39,7 +39,7 @@ $dark:          $gray-800 !default;
 //Home background image
 //You need to change only the name and the type of your image
 //For example:./img/your-image.png 
-$bgHome : "./img/tren_maya3.png";
+$bgHome : "./img/tren_maya.png";
 
 // Graph tooltip title color 
 $graphTooltipTitleColor: #537E39;

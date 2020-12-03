@@ -1458,6 +1458,10 @@ function setupFullPage() {
     }
 });
 
+$('.moveSectionDown').click(function(e){
+  e.preventDefault();
+  $.fn.fullpage.moveSectionDown();
+});
 
 
 

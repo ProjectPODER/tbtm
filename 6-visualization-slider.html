@@ -7,11 +7,14 @@ responsive: true
 <style>
 .graph-container {
     height: 100%;
-    width: 70%;
+    width: 55%;
     top: 0;
     position: fixed;
     right: 0;
     z-index: 1000;
+}
+.graph-container svg {
+    margin-left: 0;
 }
 
 @media (max-width: 768px) {
@@ -40,7 +43,7 @@ responsive: true
 			<div class="container">
 				<div class="row align-items-center">
 					{%- if page.responsive -%}
-					<div class="col-lg-5 col-md-5 col-sm-12">
+					<div class="col-lg-5 col-md-5 col-sm-12 graph-slider">
 						{{ visualization-slide.content }}
 					</div>
 					<div class="col-lg-7 col-md-7 col-sm-12 d-block d-lg-none mb-5 text-center">

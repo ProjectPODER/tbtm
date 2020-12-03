@@ -12,6 +12,10 @@ Concluimos que el proceso de consulta indígena no fue un ejercicio de participa
 
 Para este informe se revisaron todas las actas de las asambleas informativas y consultivas publicadas en el sitio web del Instituto Nacional de Pueblos Indígenas (INPI), los documentos entregados por la Secretaría de Medio Ambiente y Recursos Naturales en el marco del procedimiento de consulta pública de la Manifestación de Impacto Ambiental de los primeros tres tramos del Tren Maya y el [documento](https://poderlatam.org/wp-content/uploads/2020/11/Observaciones-MIATM_PODER-enviado-a-Semarnat.pdf) de observaciones a la MIA presentados por PODER durante el procedimiento.
 
-<div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="http://www.africau.edu/images/default/sample.pdf"></iframe>
+<div class="embed-responsive embed-responsive-4by3 mb-5">
+  <iframe class="embed-responsive-item" src="/assets/docs/InformeDDHH.pdf"></iframe>
+</div>
+
+<div class="text-center mb-5">
+  <a class="btn btn-primary" href="https://tbtm.poderlatam.org/assets/docs/InformeDDHH.pdf" target="_blank" download>Descarga el informe</a>
 </div>

@@ -41,7 +41,7 @@ Coordinación de Comunicación Externa: María Fernanda Wray.
 
 Coordinación de Periodismo y Datos: Claudia Ocaranza.
 
-Coordinación de Desarrollo: Martin Szyszlican.
+Coordinación de Desarrollo: Martín Szyszlican.
 
 Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregón.
 

@@ -10,3 +10,6 @@ La construcción del Tren Maya es el proceso en el que más dinero se han gastad
 Otros beneficiados serán las empresas que inviertan en los proyectos de energía en el sureste mexicano, mismos que tendrán efectos sobre los recursos para las comunidades, esto no lo menciona la Manifestación de Impacto Ambiental (MIA). 
 
 **Lee el informe [El tren de las élites. Empresas beneficiadas y proyectos energéticos en el sureste mexicano](/informeTM/)**
+<br>
+<br>
+<a class="moveSectionDown" href="#">Siguiente <img class="down-arrow" src="{{ site.baseurl }}/assets/img/arrow-down-solid.svg" alt="Abajo"></a>
