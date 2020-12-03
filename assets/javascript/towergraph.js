@@ -1851,8 +1851,8 @@ function setupD3() {
                 const nameText = d.name;
                 const contractsCount = d.contractsCount || "Desconocido";
                 const typeText = d.relationType == "person"
-                  ? "personas/?filtername="
-                  : "empresas/?filtername=";
+                  ? "personas/?filtername"
+                  : "empresas/?filtername";
                 return `
                       <p class="title">${nameText}</p>
                       <p>Contratos: ${contractsCount}</p>
