@@ -31,6 +31,8 @@ Periodismo: Ricardo Balderas.
 
 Cartografía: Samantha Camacho.
 
+Verificación de datos: Celso Villegas.
+
 Desarrollo: Marisol Carrillo.
 
 Diseño editorial e ilustración: Adrián Sánchez Martínez.
