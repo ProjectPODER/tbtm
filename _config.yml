@@ -32,7 +32,7 @@ bods_url: ""
 
 graph:
   # The name of your graphic
-  - title: "66,608,136,499"
+  - title: "143,387,151,065"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
