@@ -5,7 +5,7 @@ image: tm2.png
 
 # El proceso de contratación
 
-105 contratos fueron dados en adjudicación directa por 26,831,915,147 pesos, 23 en invitación a cuando menos 3 por 95,189,749.11 pesos, 14 en contrato entre entes públicos por 452,697,682.8 pesos y sólo 8 en licitación pública por 39,228,333,920 pesos. 
+244 contratos fueron dados en adjudicación directa por 36,498,665,786 pesos, 67 en invitación a cuando menos 3 por 6,053,836,450 pesos, 39 en contrato entre entes públicos por 8,732,639,837 pesos y 48 en licitación pública por 92,103,566,090 pesos. 
 
 Una de las grandes fallas del proceso de construcción del Tren Maya es la falta de consultas y acercamiento con las comunidades, así como el respeto a su derechos humanos, que a su vez son usados como moneda de cambio para que las comunidades acepten el proyecto.
 
