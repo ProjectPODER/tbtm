@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: TM_mapa_limpio_v2.png
+image: MAPA TM23 v5-imagen.png
 ---
 
 # El Tren Maya <br>y las extractivas
