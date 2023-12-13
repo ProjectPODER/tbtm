@@ -5,9 +5,7 @@ image: tm3.png
 
 # Los militares a cargo del Tren
 
-Desde el 21 de abril de 2020 se formalizó la asignación del proyecto Tren Maya a Fonatur Tren Maya, S.A. de C.V., pero ya anteriormente se llevaron a cabo procesos de contratación desde otras dependencias para la preparación del proyecto y su difusión. Las instituciones que realizaron los 150 contratos entre 2019 y 2020 son: FONATUR Tren Maya, el Fondo Nacional de Fomento al Turismo, la Secretaría de Gobernación y la Secretaría de Turismo.
-
-En septiembre de 2023, se formalizó la entrega del proyecto Tren Maya a la Secretaría de la Defensa Nacional (SEDENA), la cual es la encargada de administrarlo, a través de la empresa de propiedad estatal: Tren Maya, S.A. de C.V., lo que incluye emitir procesos de contratación para su construcción, mantenimiento y operación. 
+El Fondo Nacional de Fomento al Turismo (FONATUR) condujó los procesos de contratación para la construcción del Tren Maya y coordinó los trabajo a través de la empresa de propiedad estatal Fonatur Tren Maya, S.A. de C.V. No obstante, a partir de la declaratoria presidencial que considera el TM y otros proyectos de interés público y seguridad nacional, en septiembre de 2023, se formalizó la entrega del proyecto  a la Secretaría de la Defensa Nacional (SEDENA), la cual es la encargada actualmente de administrarlo, a través de la empresa de propiedad estatal, Tren Maya, S.A. de C.V. Una empresa constituida con 99% de las acciones de la SEDENA y el 1% del Banco Nacional del Ejército, Fuerza Aérea y Armada SNC.
 
 **Lee el reportaje ["Tren Maya: la debida diligencia en materia de Derechos Humanos"](https://poderlatam.org/2023/09/tren-maya-la-debida-diligencia-en-materia-de-derechos-humanos/){:target="_blank"}**
 <br>
