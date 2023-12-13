@@ -7,7 +7,7 @@ image: tm2.png
 
 244 contratos fueron otorgados mediante adjudicación directa por 36,498,665,786 pesos, 67 en invitación a cuando menos 3 por 6,053,836,450 pesos, 39 contratos entre entes públicos por 8,732,639,837 pesos y 48 mediante licitación pública por 92,103,566,090 pesos. 
 
-Una de las grandes fallas del proceso de construcción del Tren Maya es la falta de consultas y acercamiento con las comunidades, así como el respeto a su derechos humanos, que a su vez son usados como moneda de cambio para que las comunidades acepten el proyecto.
+La cantidad de recursos públicos para la construcción del TM y el número de empresas que han participado desde su planeación, diseño, construcción y difusión, obliga al Estado a reforzar medidas que garanticen la transparencia, la participación y rendición de cuentas de las comunidades afectadas. No obstante, éstas han sido excluidas del diseño del proyecto.
 
 **Lee el [informe “Derechos Humanos: ¿garantía o transacción?”](/informeDDHH/)**
 <br>
