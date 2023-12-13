@@ -3,7 +3,7 @@ title: Slide 3
 image: tm3.png
 ---
 
-# Resolución de controversias y publicidad
+# Los militares a cargo del Tren
 
 Desde el 21 de abril de 2020 se formalizó la asignación del proyecto Tren Maya a Fonatur Tren Maya, S.A. de C.V., pero ya anteriormente se llevaron a cabo procesos de contratación desde otras dependencias para la preparación del proyecto y su difusión. Las instituciones que realizaron los 150 contratos entre 2019 y 2020 son: FONATUR Tren Maya, el Fondo Nacional de Fomento al Turismo, la Secretaría de Gobernación y la Secretaría de Turismo.
 
