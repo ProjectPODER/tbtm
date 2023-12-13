@@ -9,7 +9,7 @@ Desde el 21 de abril de 2020 se formalizó la asignación del proyecto Tren Maya
 
 En septiembre de 2023, se formalizó la entrega del proyecto Tren Maya a la Secretaría de la Defensa Nacional (SEDENA), la cual es la encargada de administrarlo, a través de la empresa de propiedad estatal: Tren Maya, S.A. de C.V., lo que incluye emitir procesos de contratación para su construcción, mantenimiento y operación. 
 
-**Lee el reportaje ["La amenaza Maya: el tren y la inmobiliaria"](https://poderlatam.org/2020/12/la-amenaza-maya-el-tren-y-la-inmobiliaria/){:target="_blank"}**
+**Lee el reportaje ["Tren Maya: la debida diligencia en materia de Derechos Humanos"](https://poderlatam.org/2023/09/tren-maya-la-debida-diligencia-en-materia-de-derechos-humanos/){:target="_blank"}**
 <br>
 <br>
 <a class="moveSectionDown" href="#">Siguiente <img class="down-arrow" src="{{ site.baseurl }}/assets/img/arrow-down-solid.svg" alt="Abajo"></a>
