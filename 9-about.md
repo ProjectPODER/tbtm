@@ -51,7 +51,6 @@ Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregón.
 
 Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
 
-## Créditos 
 
 Actualización 2023
 
