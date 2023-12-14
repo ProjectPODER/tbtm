@@ -28,47 +28,27 @@ En el sitio web se utilizó esta [librería](https://github.com/ProjectPODER/num
 #### El Negocio del Tren Maya
 
 * Investigación: Isabel Clavijo y Daniel Castrejón.
-
 * Periodismo: Ricardo Balderas.
-
 * Cartografía: Samantha Camacho.
-
 * Verificación de datos: Celso Villegas.
-
 * Desarrollo: Marisol Carrillo.
-
 * Diseño editorial e ilustración: Adrián Sánchez Martínez.
-
 * Redes sociales: Mariela Álvarez Alatriste.
-
 * Coordinación de Comunicación Externa: María Fernanda Wray.
-
 * Coordinación de Periodismo y Datos: Claudia Ocaranza.
-
 * Coordinación de Desarrollo: Martín Szyszlican.
-
 * Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregón.
-
 * Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
 
 #### Actualización 2023
 
 * Investigación: Daniel Castrejón.
-
 * Periodismo: Ricardo Balderas.
-
 * Cartografía: Samantha Camacho.
-
 * Verificación de datos: Celso Villegas.
-
 * Desarrollo: Marisol Carrillo.
-
 * Diseño editorial e ilustración: Adrián Sánchez Martínez.
-
 * Redes sociales: Mariela Álvarez Alatriste.
-
 * Coordinación de Comunicación Externa: Paulina Souza.
-
 * Dirección del proyecto: María Julieta Lamberti.
-
 * Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
