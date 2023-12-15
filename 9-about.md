@@ -12,7 +12,7 @@ El objetivo es aportar información desde una mirada crítica que ayude a los pu
 
 ## Metodología
 
-Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas en los informes de investigación que se sustentan en información pública de Compranet, Solicitudes de Acceso a la Información, la Plataforma Nacional de Transparencia, el sitio del gobierno sobre el [Tren Maya](trenmaya.gob.mx), el [Instituto Nacional de Pueblos Indígenas](inpi.gob.mx), el [Diario Oficial de la Federación](dof.gob.mx) y el [Registro Público de Comercio](rpc.economia.gob.mx). Para analizar todos los contratos públicos relacionados con el Tren Maya se consultó también [QuiénEsQuién.Wiki](https://www.quienesquien.wiki/)
+Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas en los informes de investigación que se sustentan en información pública de Compranet, Solicitudes de Acceso a la Información, la Plataforma Nacional de Transparencia, el sitio del gobierno sobre el [Tren Maya](www.trenmaya.gob.mx), el [Instituto Nacional de Pueblos Indígenas](inpi.gob.mx), el [Diario Oficial de la Federación](dof.gob.mx) y el [Registro Público de Comercio](rpc.economia.gob.mx). Para analizar todos los contratos públicos relacionados con el Tren Maya se consultó también [QuiénEsQuién.Wiki](https://www.quienesquien.wiki/)
 
 
 ## Visualización y micrositio
