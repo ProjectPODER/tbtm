@@ -25,7 +25,19 @@ En el sitio web se utilizó esta [librería](https://github.com/ProjectPODER/num
 
 ## Créditos
 
-#### El Negocio del Tren Maya
+#### El Negocio del Tren Maya 2024
+
+* Investigación: Daniel Castrejón.
+* Periodismo: Ricardo Balderas.
+* Cartografía: Samantha Camacho.
+* Desarrollo: Marisol Carrillo.
+* Diseño editorial e ilustración: Adrián Sánchez Martínez.
+* Comunicación Externa: Mariela Álvarez Alatriste.
+* Coordinación de Comunicación Externa: Paulina Souza.
+* Dirección del proyecto: María Julieta Lamberti.
+* Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
+
+#### El Negocio del Tren Maya 2020
 
 * Investigación: Isabel Clavijo y Daniel Castrejón.
 * Periodismo: Ricardo Balderas.
@@ -33,22 +45,9 @@ En el sitio web se utilizó esta [librería](https://github.com/ProjectPODER/num
 * Verificación de datos: Celso Villegas.
 * Desarrollo: Marisol Carrillo.
 * Diseño editorial e ilustración: Adrián Sánchez Martínez.
-* Redes sociales: Mariela Álvarez Alatriste.
+* Comunicación Externa: Mariela Álvarez Alatriste.
 * Coordinación de Comunicación Externa: María Fernanda Wray.
 * Coordinación de Periodismo y Datos: Claudia Ocaranza.
 * Coordinación de Desarrollo: Martín Szyszlican.
 * Dirección del proyecto: María Julieta Lamberti y Eduard Martín-Borregón.
-* Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
-
-#### Actualización 2023
-
-* Investigación: Daniel Castrejón.
-* Periodismo: Ricardo Balderas.
-* Cartografía: Samantha Camacho.
-* Verificación de datos: Celso Villegas.
-* Desarrollo: Marisol Carrillo.
-* Diseño editorial e ilustración: Adrián Sánchez Martínez.
-* Redes sociales: Mariela Álvarez Alatriste.
-* Coordinación de Comunicación Externa: Paulina Souza.
-* Dirección del proyecto: María Julieta Lamberti.
 * Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
