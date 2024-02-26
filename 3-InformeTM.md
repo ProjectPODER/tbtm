@@ -16,9 +16,9 @@ Todas las afirmaciones realizadas en este informe se fundamentan en información
 
 
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="/assets/docs/ElTrendelasElites.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="/assets/docs/ElTrenDeLasElites_final_031220.pdf"></iframe>
 </div>
 
 <div class="text-center mb-5">
-  <a class="btn btn-primary" href="https://tbtm.poderlatam.org/assets/docs/ElTrendelasElites.pdf" target="_blank" download>Descarga el informe</a>
+  <a class="btn btn-primary" href="https://poderlatam.org/wp-content/uploads/2020/12/ElTrenDeLasElites_final_031220.pdf" target="_blank" download>Descarga el informe</a>
 </div>
