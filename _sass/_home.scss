@@ -20,7 +20,7 @@
         letter-spacing: 1px;
         text-shadow: #49043F 6px 5px 1px;
     }
-    
+
     h1,
     p {
         color: $white;
@@ -36,12 +36,13 @@
     }
     .main-text{
         // font-weight: bold;
-        background-color: rgba(0,0,0,0.2);
+        background-color: rgba(0,0,0,0.3);
         padding: 20px;
-        border-radius: 1em;
+        border-radius: 0.5em;
         text-shadow: black 0 0 5px;
         box-shadow: 0 0 50px rgba(0,0,0,0.4);
         margin-bottom: 0 !important;
+        font-weight: 600;
     }
 }
 

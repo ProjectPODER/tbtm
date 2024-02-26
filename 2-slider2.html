@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Dueños de las vías
-permalink: /duenos-de-las-vias/
+title: Negocios militares
+permalink: /negocios-militares/
 ---
 <div id="page-loader"><span class="preloader-interior"></span></div>
 <div id="fullpage-slider" class="{% if site.branded-header == "PODER" -%}fullpage-slider-iframe{%- endif -%}">
-	{% for first-slide in site.first-slider %}
-		{% capture id %}{{ first-slide.id | remove:'/' | remove:'first-slider' | downcase }}{% endcapture %}
+	{% for second-slide in site.second-slider %}
+		{% capture id %}{{ second-slide.id | remove:'/' | remove:'second-slider' | downcase }}{% endcapture %}
 		<div class="section">
 			<div class="container">
 				<div class="row align-items-center">
-					{%- if first-slide.image -%}
+					{%- if second-slide.image -%}
 					<div class="col-lg-5 col-md-5 col-sm-12">
-						{{ first-slide.content }}
+						{{ second-slide.content }}
 					</div>
 					<div class="col-lg-7 col-md-7 col-sm-12 text-center">
-						<img data-src="{{ site.baseurl }}/assets/img/{{first-slide.image}}" class="img-fluid">
+						<img data-src="{{ site.baseurl }}/assets/img/{{second-slide.image}}" class="img-fluid">
 					</div>
               		{%- else -%}
 					<div class="col-lg-12 col-md-12 col-sm-12 text-center">
-						{{ first-slide.content }}
+						{{ second-slide.content }}
 					</div>
 					{%- endif -%}
 				</div>
@@ -33,13 +33,13 @@ permalink: /duenos-de-las-vias/
 $(document).ready(function() {
 	  $('#fullpage-slider').fullpage({
 	    verticalCentered: true,
-		navigation: true,
+			navigation: true,
 	    anchors: anchors,
 	    menu: '#menu',
 	    lazyLoading: true,
 	    paddingTop: '10px',
-		paddingBottom: '30px',
-		responsiveWidth: 992,
+			paddingBottom: '30px',
+			responsiveWidth: 992,
         afterResponsive: function(isResponsive){
         },
         afterRender: function(){
@@ -47,7 +47,7 @@ $(document).ready(function() {
 			  $('#page-loader').fadeOut(500);
 			}();
 		},
-	});		
+	});
 	$('#moveSectionDown').click(function(e){
 		e.preventDefault();
 		$.fn.fullpage.moveSectionDown();
@@ -56,8 +56,8 @@ $(document).ready(function() {
 
 
 var anchors = [
-	{% for first-slide in site.first-slider %}
-	{% capture id %}{{ first-slide.id | remove:'/' | remove:'first-slider' | downcase }}{% endcapture %}
+	{% for second-slide in site.second-slider %}
+	{% capture id %}{{ second-slide.id | remove:'/' | remove:'second-slider' | downcase }}{% endcapture %}
 	'{{id}}'{% if forloop.last == false %},{% endif %}
 	{% endfor %}
 ]
