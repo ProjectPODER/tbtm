@@ -16,7 +16,7 @@ Todas las afirmaciones realizadas en este informe se fundamentan en información
 
 
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="https://poderlatam.org/wp-content/uploads/2024/02/Militares_SAdeCV.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="/assets/docs/Militares_SAdeCV.pdf"></iframe>
 </div>
 
 <div class="text-center mb-5">
