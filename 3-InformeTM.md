@@ -20,5 +20,5 @@ Todas las afirmaciones realizadas en este informe se fundamentan en información
 </div>
 
 <div class="text-center mb-5">
-  <a class="btn btn-primary" href="https://poderlatam.org/wp-content/uploads/2024/02/Militares_SAdeCV.pdf" target="_blank" download>Descarga el informe</a>
+  <a class="btn btn-primary" href="https://poderlatam.org/wp-content/uploads/2020/12/ElTrenDeLasElites_final_031220.pdf" target="_blank" download>Descarga el informe</a>
 </div>
